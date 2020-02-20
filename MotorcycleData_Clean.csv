@@ -1,0 +1,2406 @@
+Condition,Price,Mileage,Model_Year,Make,Model,Type,OBO,Seller_Status,Vehicle_Tile
+Used,11412,16000,2013.0,Harley-Davidson,Touring,Cruiser,False,private seller,Clear
+Used,17200,60,2016.0,Harley-Davidson,Touring,Sport Touring,False,private seller,Clear
+Used,6575,33142,2009.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,10000,17800,2012.0,Harley-Davidson,Touring,Touring,False,owner,Clear
+Used,24900,5548,2010.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,1400,17868,1975.0,Harley-Davidson,Sportster,Other,False,private seller,Clear
+Used,5100,2800,2014.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,8000,3000,2015.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,2125,30,1978.0,Harley-Davidson,Touring,Cruiser,False,private seller,Clear
+Used,11100,5800,2011.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,1125,55000,2002.0,Harley-Davidson,Other,Touring,False,private seller,Clear
+Used,3550,57898,2000.0,Harley-Davidson,Touring,Cruiser,False,dealer,Clear
+Used,5500,22102,2008.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,9000,7792,2010.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,8100,9305,1973.0,Harley-Davidson,Other,Other,False,private seller,Clear
+Used,14000,1125,2016.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,20000,5500,2015.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+New,13000,250,2016.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+New,10900,140,2017.0,Harley-Davidson,Touring,Sport Bike,True,private seller,Clear
+Used,9999,25405,2005.0,Harley-Davidson,Softail,Other,False,dealer,Clear
+Used,26500,13089,2016.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,9850,23546,2003.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,45900,40000,2009.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,10600,3769,2009.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,12000,8700,2008.0,Harley-Davidson,Softail,Other,False,private seller,Clear
+Used,20000,16827,2011.0,Harley-Davidson,Other,Other,True,private seller,Clear
+Used,25000,15000,2010.0,Harley-Davidson,Touring,Cruiser,False,private seller,Clear
+Used,20000,2900,2014.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,11000,15200,2007.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,8500,10319,2008.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,18000,29544,2010.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,6700,8950,2004.0,Harley-Davidson,Softail,Sport Touring,False,private seller,Clear
+Used,18000,5600,2015.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,6800,55782,2003.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,5000,1350,2003.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,13200,15400,2011.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,11400,1533,2012.0,Harley-Davidson,Touring,Sport Touring,False,dealer,Clear
+Used,3250,22896,2003.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,8000,24742,2012.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,17800,1500,2016.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,8500,51000,2003.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,4050,6650,2006.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,24999,5184,2013.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,7200,37500,2005.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,10500,6599,2013.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,630,999999,1964.0,Harley-Davidson,Other,Other,False,dealer,Clear
+Used,9050,39242,2008.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,4050,6650,2006.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,12500,10000,2011.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,23000,37600,2006.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,34900,12649,2014.0,Harley-Davidson,Touring,Other,False,private seller,Clear
+Used,5000,1350,2003.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,6500,13000,2005.0,Harley-Davidson,Softail,Standard,False,private seller,Clear
+Used,13500,3644,2012.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,3250,22896,2003.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,11000,16500,2009.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,9500,14950,2003.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,19999,48505,2000.0,Harley-Davidson,Touring,Other,True,dealer,Clear
+Used,6500,55300,1986.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,13500,34696,2012.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,5655,1530,2015.0,Harley-Davidson,Other,Other,False,private seller,Clear
+Used,8800,39242,2008.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,11995,4065,1972.0,Harley-Davidson,Touring,Sport Touring,False,private seller,Clear
+Used,9900,21300,2003.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,500,13000,2008.0,Harley-Davidson,Touring,Other,False,owner,Clear
+Used,15500,21760,2006.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,12000,34530,2008.0,Harley-Davidson,Softail,Other,True,private seller,Clear
+Used,14000,10700,2007.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,23749,22000,2012.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,7500,41500,2006.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,2025,48985,2003.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,15100,2571,2015.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,18999,2600,2014.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,16000,955,2016.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,3500,30000,1990.0,Harley-Davidson,Sportster,Other,False,private seller,Clear
+Used,21900,1067,2017.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,18500,2600,2014.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,9499,46000,2003.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,9500,28000,2008.0,Harley-Davidson,Touring,Touring,True,owner,Clear
+Used,6500,9490,2007.0,Harley-Davidson,Softail,Standard,False,private seller,Clear
+Used,4350,3964,2006.0,Harley-Davidson,Sportster,Cruiser,True,private seller,Clear
+Used,13400,12500,2008.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,7999,20000,2008.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,12500,216,2015.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,1225,70000,2003.0,Harley-Davidson,Touring,Sport Touring,False,private seller,Clear
+Used,13995,2182,2012.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,1050,18300,2011.0,Harley-Davidson,Touring,Touring,False,owner,Clear
+Used,47720,3355,2016.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,18500,3800,2008.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,5600,420,2009.0,Harley-Davidson,Sportster,Standard,False,private seller,Clear
+Used,12500,26000,2012.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,29999,2100,2015.0,Harley-Davidson,Touring,Other,False,private seller,Clear
+Used,5999,13015,2003.0,Harley-Davidson,Touring,Cruiser,False,dealer,Clear
+Used,19788,241,2017.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,51552,3335,2017.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,7000,6500,2007.0,Harley-Davidson,Touring,Sport Touring,True,private seller,Clear
+Used,10750,9000,2001.0,Harley-Davidson,Softail,Cruiser,True,owner,Clear
+Used,9900,18081,2009.0,Harley-Davidson,Dyna,Cruiser,False,dealer,Clear
+Used,16100,1377,2016.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,7200,17225,2003.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,30000,7000,2006.0,Harley-Davidson,Other,Sport Bike,False,private seller,Clear
+Used,2500,11390,1989.0,Harley-Davidson,Sportster,Sport Touring,False,private seller,Clear
+Used,6950,65100,2006.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,49441,770,2017.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,5000,750,1975.0,Harley-Davidson,Other,Cruiser,False,private seller,Clear
+Used,5600,13727,2013.0,Harley-Davidson,Sportster,Standard,False,dealer,Clear
+Used,4300,10650,2004.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,6000,8610,2010.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,6950,65100,2006.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,49441,770,2017.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,8000,8250,1996.0,Harley-Davidson,Softail,Touring,False,private seller,Clear
+Used,12999,540,2012.0,Harley-Davidson,Other,Sport Bike,True,private seller,Clear
+Used,4800,19300,2008.0,Harley-Davidson,Dyna,Cruiser,False,private seller,Clear
+Used,16795,5860,2014.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,9500,24000,2002.0,Harley-Davidson,Touring,Cruiser,False,private seller,Clear
+Used,500,27784,2007.0,Harley-Davidson,Touring,Other,False,dealer,Clear
+Used,31999,300,2016.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,17000,9001,1975.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,9500,13562,2002.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,21300,1200,2015.0,Harley-Davidson,Touring,Other,False,private seller,Clear
+Used,8888,38484,2008.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,13600,18441,1966.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,20999,713,2014.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,7100,17267,2008.0,Harley-Davidson,Touring,Other,False,dealer,Clear
+Used,26100,7023,2015.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,4899,37779,2003.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,17000,30053,2007.0,Harley-Davidson,Softail,Standard,False,private seller,Clear
+Used,17000,1432,2016.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,19589,6393,2015.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,7000,233,2014.0,Harley-Davidson,Sportster,Standard,True,private seller,Clear
+Used,15500,11060,2012.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,60000,971,2004.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,18999,30,2017.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,32888,151,2017.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,13900,1302,2016.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,13495,15466,2015.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,30663,6988,2016.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,4750,7775,2007.0,Harley-Davidson,Softail,Standard,False,dealer,Clear
+Used,4350,35000,1993.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,13495,15466,2015.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,30663,6988,2016.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,13100,7004,2014.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,5990,18000,1977.0,Harley-Davidson,Sportster,Sport Bike,False,private seller,Clear
+Used,21997,351,2017.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,5000,11977,2006.0,Harley-Davidson,Softail,Gasoline,False,dealer,Clear
+Used,4250,25500,2003.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,36908,8180,2014.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,10900,275,2017.0,Harley-Davidson,Softail,Other,False,private seller,Clear
+Used,0,42000,1999.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,26500,25183,2007.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+New,33000,101,2017.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,6950,39334,2007.0,Harley-Davidson,Touring,Other,False,dealer,Clear
+Used,31991,3555,2015.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,15000,4024,2014.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,47720,3355,2016.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,25927,3755,2016.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,12900,2523,2009.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+New,25000,1300,2016.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,13495,8912,2007.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,9288,5042,2011.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,41444,3998,2016.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,17900,41064,2012.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,29994,3996,2015.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,6850,29956,2005.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,18500,1231,2016.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,10000,30000,2014.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,22900,1302,2010.0,Harley-Davidson,Other,Cruiser,True,dealer,Clear
+Used,19495,2564,2014.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,20995,1566,2016.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,10300,4211,2017.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,10900,275,2017.0,Harley-Davidson,Softail,Other,False,private seller,Clear
+Used,19495,4864,2015.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,21000,9874,2011.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,20999,2134,2016.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,8999,18500,2004.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,7100,32606,2012.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,8495,57872,2007.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,4882,51673,2004.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,25927,3755,2016.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,0,489,2017.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,26000,860,2017.0,Harley-Davidson,Touring,Other,True,private seller,Clear
+Used,33857,2280,2017.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,6000,41257,2003.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,13495,8912,2007.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,19500,8381,2016.0,Harley-Davidson,Touring,Cruiser,False,dealer,Clear
+Used,51000,3500,2016.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,7000,4750,2009.0,Harley-Davidson,Other,Other,False,private seller,Clear
+Used,29500,3409,1940.0,Harley-Davidson,Other,Sport Bike,False,private seller,Clear
+Used,6850,29956,2005.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,8200,10298,2003.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,29333,1490,2017.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,18877,135,2017.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,12000,16361,2009.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,27999,3059,2015.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,29909,1690,2015.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,7500,450,2016.0,Harley-Davidson,Sportster,Cruiser,False,dealer,Clear
+Used,3050,5402,2014.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,19500,2200,2016.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,7250,39701,2006.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,18800,13843,2006.0,Harley-Davidson,Touring,Other,True,dealer,Clear
+Used,4150,54329,2006.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,8000,3117,2012.0,Harley-Davidson,Sportster,Standard,True,private seller,Clear
+Used,100000,111111,2000.0,Harley-Davidson,Other,Other,False,dealer,Clear
+Used,20999,820,2016.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,34000,7530,2013.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,34000,7530,2013.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,18995,11245,2016.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,7300,23471,2010.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,8500,15647,2015.0,Harley-Davidson,Sportster,Other,True,private seller,Clear
+Used,13500,2584,2003.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+New,113,100,2015.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,33857,2280,2017.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,5100,54101,2008.0,Harley-Davidson,Softail,Standard,False,dealer,Clear
+Used,5750,83260,2005.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,6500,54170,2006.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,21000,1300,2016.0,Harley-Davidson,Touring,Other,True,private seller,Clear
+Used,39919,1770,2017.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,17995,10189,2016.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,6000,38265,2005.0,Harley-Davidson,Touring,Other,False,owner,Clear
+Used,17500,4899,2015.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,1325,2999,2001.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,16000,7956,2016.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,3050,20400,2006.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,9000,100000,2008.0,Harley-Davidson,Other,Cruiser,False,private seller,Clear
+Used,32333,1795,2016.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,4000,1050,2015.0,Harley-Davidson,Other,Standard,False,private seller,Clear
+Used,23500,1812,2016.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,21999,8621,2017.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,2550,12000,2015.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,4500,69553,2003.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,9300,14000,2008.0,Harley-Davidson,Softail,Touring,False,private seller,Clear
+Used,11500,16748,2008.0,Harley-Davidson,Touring,Other,True,private seller,Clear
+Used,3000,44000,2002.0,Harley-Davidson,Dyna,Standard,False,private seller,Clear
+Used,680,13000,2013.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,4900,40600,1996.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,22500,19998,2008.0,Harley-Davidson,Touring,Other,True,dealer,Clear
+Used,29900,703,2016.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,29883,1835,2016.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,2650,99546,2005.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,24999,2000,2016.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,25000,500,2015.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,65000,5200,2015.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,10995,18561,2010.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,17400,8338,2009.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,8500,13397,2006.0,Harley-Davidson,V-ROD,Sport Bike,False,private seller,Clear
+Used,22500,19998,2008.0,Harley-Davidson,Touring,Other,True,dealer,Clear
+Used,29900,703,2016.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,29883,1835,2016.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,9000,16000,2007.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,2650,99546,2005.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,11500,27095,1999.0,Harley-Davidson,Softail,Standard,True,dealer,Clear
+Used,24999,2000,2016.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,25000,500,2015.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,65000,5200,2015.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,10995,18561,2010.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,17400,8338,2009.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,7295,8400,2005.0,Harley-Davidson,Softail,Sport Touring,False,private seller,Clear
+Used,8700,37500,1999.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,8500,13397,2006.0,Harley-Davidson,V-ROD,Sport Bike,False,private seller,Clear
+Used,5995,41906,2000.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,15500,19767,2015.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,28600,2310,2016.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,6500,13475,2006.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,9995,7197,2008.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,7500,19000,2006.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,17900,750,2016.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,29226,7530,2015.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,7100,26723,2008.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,11800,20663,2011.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,4450,61140,2005.0,Harley-Davidson,Softail,Standard,False,dealer,Clear
+Used,18300,8000,2012.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,100,5464,2014.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,8000,3281,2016.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,3975,47132,2003.0,Harley-Davidson,Dyna,Sport Touring,False,dealer,Clear
+Used,4500,18900,2000.0,Harley-Davidson,Softail,Touring,True,private seller,Clear
+Used,4850,14405,2009.0,Harley-Davidson,Sportster,Cruiser,False,dealer,Clear
+Used,36992,4140,2016.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,13000,5500,2016.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,22500,7251,2014.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,14999,36865,2006.0,Harley-Davidson,Softail,Other,True,private seller,Clear
+Used,49900,6500,2013.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,7000,9000,2014.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,28000,10001,2013.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,25500,3247,2016.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,16000,11847,2013.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,4850,14405,2009.0,Harley-Davidson,Sportster,Cruiser,False,dealer,Clear
+Used,1,66748,2007.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,6250,27000,2007.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,15995,14090,2016.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,13850,1135,2015.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,15900,12107,1995.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,5500,5700,2012.0,Harley-Davidson,Sportster,Sport Touring,False,private seller,Clear
+Used,7300,4500,2012.0,Harley-Davidson,Touring,Cruiser,False,private seller,Clear
+Used,11500,3600,2005.0,Harley-Davidson,Softail,Standard,True,private seller,Clear
+Used,4158,5202,2009.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,10400,7440,2011.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,10100,19066,2006.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,25000,6600,2012.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,14500,7700,2009.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,18495,9663,2016.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,6900,42054,2006.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,9000,6051,2012.0,Harley-Davidson,Other,Cruiser,False,private seller,Clear
+Used,10900,3850,2006.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,17499,11500,2015.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,17500,22463,2010.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,2950,34462,2005.0,Harley-Davidson,Sportster,Sport Touring,True,private seller,Clear
+Used,4100,1230,2013.0,Harley-Davidson,Sportster,Cruiser,False,dealer,Clear
+Used,20200,8084,2009.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,7499,81818,2008.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,8099,18020,2005.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,9000,16000,2007.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,11500,27095,1999.0,Harley-Davidson,Softail,Standard,True,dealer,Clear
+Used,11600,15027,2008.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,10000,11,1958.0,Harley-Davidson,Touring,Cruiser,False,private seller,Clear
+Used,12000,12600,2001.0,Harley-Davidson,Softail,Other,False,private seller,Clear
+Used,14500,7700,2009.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,18495,9663,2016.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,14250,2810,2015.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+New,15680,330,2016.0,Harley-Davidson,Softail,Touring,True,private seller,Clear
+Used,6900,42054,2006.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,9000,6051,2012.0,Harley-Davidson,Other,Cruiser,False,private seller,Clear
+Used,10950,7350,2009.0,Harley-Davidson,Softail,Other,False,private seller,Clear
+Used,10900,3850,2006.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,17499,11500,2015.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,17500,22463,2010.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,2950,34462,2005.0,Harley-Davidson,Sportster,Sport Touring,True,private seller,Clear
+Used,4100,1230,2013.0,Harley-Davidson,Sportster,Cruiser,False,dealer,Clear
+Used,20200,8084,2009.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,7499,81818,2008.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,8099,18020,2005.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,11600,15027,2008.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,10000,11,1958.0,Harley-Davidson,Touring,Cruiser,False,private seller,Clear
+Used,10495,20776,2005.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,15995,18083,2015.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,24900,12975,2016.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,8500,19500,2006.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,22000,28563,2009.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,3051,50,1979.0,Harley-Davidson,Other,Other,False,private seller,Clear
+Used,27771,7385,2015.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,4300,20210,2001.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,12499,3553,2012.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,9495,30974,2007.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,25750,6800,2013.0,Harley-Davidson,Touring,Other,False,private seller,Clear
+Used,9000,9766,1970.0,Harley-Davidson,Touring,Cruiser,True,private seller,Clear
+Used,30995,10205,2015.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,6995,39341,2002.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,3995,11718,2012.0,Harley-Davidson,Sportster,Cruiser,True,dealer,Clear
+Used,11000,8500,2014.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,29000,8500,2009.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,5000,19700,2006.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,14500,4131,2014.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,4450,61140,2005.0,Harley-Davidson,Softail,Standard,False,dealer,Clear
+Used,12900,669,2004.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,100,5464,2014.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,9900,7700,2008.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,14995,24553,2000.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,6000,40000,2006.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,8000,3281,2016.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,7000,21890,2003.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,3000,12500,2002.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,3975,47132,2003.0,Harley-Davidson,Dyna,Sport Touring,False,dealer,Clear
+Used,4500,18900,2000.0,Harley-Davidson,Softail,Touring,True,private seller,Clear
+Used,6500,36000,2006.0,Harley-Davidson,Touring,Other,False,owner,Clear
+Used,6800,45543,2005.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,5600,35395,2007.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,2800,42000,2004.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,2225,5100,2002.0,Harley-Davidson,Other,Cruiser,False,private seller,Clear
+Used,1075,11350,2005.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,25000,8500,2010.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,11995,44289,2012.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,7500,33713,2004.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,26000,400,1948.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,32500,8000,2016.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,6900,6340,2012.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,13995,9088,2012.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,12000,12600,2001.0,Harley-Davidson,Softail,Other,False,private seller,Clear
+Used,6995,15482,2012.0,Harley-Davidson,Sportster,Cruiser,True,dealer,Clear
+Used,14250,2810,2015.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+New,15680,330,2016.0,Harley-Davidson,Softail,Touring,True,private seller,Clear
+Used,23500,2006,2015.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,10950,7350,2009.0,Harley-Davidson,Softail,Other,False,private seller,Clear
+Used,16500,5500,2014.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,22500,8200,2013.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,12200,1058,2015.0,Harley-Davidson,Other,Cruiser,True,private seller,Clear
+Used,9500,11614,2008.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,9500,25512,2005.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,13750,428,2014.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,5000,3000,2015.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,6500,36000,2006.0,Harley-Davidson,Touring,Other,False,owner,Clear
+Used,8495,21613,2003.0,Harley-Davidson,Softail,Touring,True,dealer,Clear
+Used,6800,45543,2005.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,4500,1500,1993.0,Harley-Davidson,Softail,Other,False,private seller,Clear
+Used,5500,14600,2010.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,5600,14000,2007.0,Harley-Davidson,Softail,Other,False,dealer,Clear
+Used,2800,42000,2004.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,1775,15172,2002.0,Harley-Davidson,Sportster,Cruiser,False,dealer,Clear
+Used,11995,44289,2012.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,7500,33713,2004.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,26000,400,1948.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,9500,2434,2006.0,Harley-Davidson,Softail,Other,False,private seller,Clear
+Used,12000,664,2016.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,32500,8000,2016.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,4900,59335,2004.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,6900,6340,2012.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,13995,9088,2012.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,11800,7019,2013.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,23500,2006,2015.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,12850,5408,2016.0,Harley-Davidson,Dyna,Cruiser,False,private seller,Clear
+Used,16500,5500,2014.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,22500,8200,2013.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,9500,11614,2008.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,9500,25512,2005.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,18495,11063,2014.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,24000,2869,2014.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,18500,50,2003.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,16999,6252,2016.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,10500,5500,2005.0,Harley-Davidson,Touring,Other,True,private seller,Clear
+Used,17750,2320,2015.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,21500,3990,2016.0,Harley-Davidson,Touring,Other,False,private seller,Clear
+Used,19995,4498,2016.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,16000,11900,2009.0,Harley-Davidson,Other,Sport Bike,True,private seller,Clear
+Used,27000,4600,2013.0,Harley-Davidson,Other,Cruiser,True,private seller,Clear
+Used,12500,6400,2015.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,9500,23263,2006.0,Harley-Davidson,Touring,Touring,True,owner,Clear
+Used,14000,16400,2008.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,8100,2000,1999.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,6500,15200,1992.0,Harley-Davidson,Other,Standard,False,private seller,Clear
+Used,1000,6680,2013.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,5200,2030,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,19900,6500,2017.0,Harley-Davidson,Touring,Touring,False,owner,Clear
+Used,9100,44000,1968.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,8000,23000,2005.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,5000,3225,2006.0,Harley-Davidson,Touring,Other,False,private seller,Clear
+Used,21500,6488,2015.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,18000,2535,2010.0,Harley-Davidson,Other,Touring,False,private seller,Clear
+Used,5999,8609,1989.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,4995,39453,1990.0,Harley-Davidson,Touring,Touring,True,carrigan motor group,Clear
+Used,12999,11214,2012.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,4550,12128,1977.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,3995,50000,1993.0,Harley-Davidson,Dyna,Standard,False,private seller,Clear
+Used,8500,871,2007.0,Harley-Davidson,Touring,Sport Touring,True,private seller,Clear
+Used,9500,13483,2015.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,29995,669,2017.0,Harley-Davidson,Touring,Other,True,dealer,Clear
+Used,10995,10558,2012.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,8299,3295,2002.0,Harley-Davidson,Touring,Touring,True,owner,Clear
+Used,11995,23508,2009.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,45000,2500,2013.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,6595,46581,2002.0,Harley-Davidson,Softail,Touring,False,private seller,Clear
+Used,12499,24439,2013.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,15400,2242,2015.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,11250,61500,2005.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,510,23953,2005.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,7999,69425,2010.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,1,18247,2007.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,11500,28875,2007.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,7900,34258,2001.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,11000,3200,2011.0,Harley-Davidson,Softail,Other,False,private seller,Clear
+Used,32989,4359,2014.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,51,25000,2004.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,16000,11900,2009.0,Harley-Davidson,Other,Sport Bike,True,private seller,Clear
+Used,16000,26000,2009.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,22950,1750,2012.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,22900,9000,2012.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,26250,2786,2013.0,Harley-Davidson,Touring,Touring,True,owner,Clear
+Used,5000,0,1968.0,Harley-Davidson,Other,Other,False,owner,Clear
+Used,7499,20800,2007.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,19000,2238,2013.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,14995,6819,2013.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,6950,16500,2004.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,22000,6800,2016.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,6100,17860,2006.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,5999,8609,1989.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,9400,12000,2010.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,28500,4967,2014.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,12999,11214,2012.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,20100,11015,2012.0,Harley-Davidson,Touring,Other,False,private seller,Clear
+Used,3995,50000,1993.0,Harley-Davidson,Dyna,Standard,False,private seller,Clear
+Used,10995,10558,2012.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,13999,8300,2014.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,13999,16100,2007.0,Harley-Davidson,Touring,Sport Touring,False,private seller,Clear
+Used,6900,63000,2003.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,6595,46581,2002.0,Harley-Davidson,Softail,Touring,False,private seller,Clear
+Used,11999,24258,2009.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,22500,7500,2012.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,12000,55300,2000.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,20000,10546,2015.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,25999,26308,2013.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,11999,7204,2012.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,20000,16192,2012.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+New,27980,9730,2012.0,Harley-Davidson,Touring,Gasoline,True,dealer,Clear
+Used,12000,15873,2007.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,11000,3200,2011.0,Harley-Davidson,Softail,Other,False,private seller,Clear
+Used,6100,10000,2000.0,Harley-Davidson,Softail,Standard,False,private seller,Clear
+Used,8500,17720,2006.0,Harley-Davidson,Softail,Standard,False,private seller,Clear
+Used,12000,15873,2007.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,11000,3200,2011.0,Harley-Davidson,Softail,Other,False,private seller,Clear
+Used,6100,10000,2000.0,Harley-Davidson,Softail,Standard,False,private seller,Clear
+Used,8500,17720,2006.0,Harley-Davidson,Softail,Standard,False,private seller,Clear
+Used,3300,1226,2012.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,2050,1,1974.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,10988,9560,2011.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,10500,4570,2009.0,Harley-Davidson,Softail,Standard,True,private seller,Clear
+Used,10995,44996,2011.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,13995,49801,2008.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,20000,14000,2011.0,Harley-Davidson,Touring,Sport Touring,False,private seller,Clear
+Used,19795,12087,2015.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,9999,42600,2014.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,10500,69240,2003.0,Harley-Davidson,Softail,Touring,True,dealer,Clear
+Used,7995,4726,2014.0,Harley-Davidson,Sportster,Cruiser,True,dealer,Clear
+Used,20,9000,2001.0,Harley-Davidson,Softail,Cruiser,False,owner,Clear
+Used,5100,1070,2008.0,Harley-Davidson,Softail,Touring,False,private seller,Clear
+Used,7700,6681,2013.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,10495,3559,2012.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,6000,47496,2006.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,14995,4327,2013.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,14500,5200,2012.0,Harley-Davidson,Touring,Cruiser,True,private seller,Clear
+Used,16000,11900,2009.0,Harley-Davidson,Other,Sport Bike,True,private seller,Clear
+Used,29500,1000,1942.0,Harley-Davidson,Touring,Standard,True,private seller,Clear
+Used,27000,4600,2013.0,Harley-Davidson,Other,Cruiser,True,private seller,Clear
+Used,7700,482,2009.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,14000,5903,2011.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,1000,4219,2011.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,5500,8339,2004.0,Harley-Davidson,Dyna,Cruiser,False,dealer,Clear
+Used,9000,4500,2014.0,Harley-Davidson,Dyna,Other,True,private seller,Clear
+Used,4050,17800,2005.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,5100,7764,2013.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,18000,2535,2010.0,Harley-Davidson,Other,Touring,False,private seller,Clear
+Used,22000,6800,2016.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,6100,17860,2006.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,9400,12000,2010.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,13500,1500,2016.0,Harley-Davidson,Dyna,Cruiser,True,owner,Clear
+Used,12999,6869,2012.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,28500,4967,2014.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,20100,11015,2012.0,Harley-Davidson,Touring,Other,False,private seller,Clear
+Used,5000,21582,2002.0,Harley-Davidson,Dyna,Cruiser,False,dealer,Clear
+Used,8500,5400,2002.0,Harley-Davidson,Softail,Other,True,private seller,Clear
+Used,13999,8300,2014.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,13999,16100,2007.0,Harley-Davidson,Touring,Sport Touring,False,private seller,Clear
+Used,6900,63000,2003.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,7600,66365,1998.0,Harley-Davidson,Softail,Other,False,private seller,Clear
+Used,7499,11562,2007.0,Harley-Davidson,Dyna,Cruiser,False,private seller,Clear
+Used,11999,24258,2009.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,22500,7500,2012.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,12000,55300,2000.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,20000,10546,2015.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,25999,26308,2013.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,4500,12570,2012.0,Harley-Davidson,Sportster,Cruiser,True,dealer,Clear
+Used,5250,19795,2005.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,21500,300,2014.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,11999,7204,2012.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,12995,5613,2011.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,20000,16192,2012.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+New,27980,9730,2012.0,Harley-Davidson,Touring,Gasoline,True,dealer,Clear
+Used,15995,3117,2014.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,8950,29244,1998.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,12000,15873,2007.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,12400,23658,2013.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,13000,17435,2003.0,Harley-Davidson,Softail,Other,True,private seller,Clear
+Used,11995,1142,2016.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,3300,1226,2012.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,2050,1,1974.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,5995,17764,2005.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,2026,13415,2014.0,Harley-Davidson,Other,Gasoline,False,private seller,Clear
+Used,9995,38278,2013.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,10995,44996,2011.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,13995,49801,2008.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,20000,14000,2011.0,Harley-Davidson,Touring,Sport Touring,False,private seller,Clear
+Used,13995,17758,1997.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,15500,2800,2015.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,19795,12087,2015.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,9999,42600,2014.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,7995,4726,2014.0,Harley-Davidson,Sportster,Cruiser,True,dealer,Clear
+Used,14999,4171,2015.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,6000,47496,2006.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,7400,7800,2004.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,14500,5200,2012.0,Harley-Davidson,Touring,Cruiser,True,private seller,Clear
+Used,29500,1000,1942.0,Harley-Davidson,Touring,Standard,True,private seller,Clear
+Used,3854,29480,2002.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,14000,5903,2011.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,1000,4219,2011.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,4050,17800,2005.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,5100,7764,2013.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,12500,4222,2008.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,9500,9800,2005.0,Harley-Davidson,Softail,Other,False,private seller,Clear
+Used,6800,31623,2002.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,12695,19127,2008.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,12404,13800,2003.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,7995,19679,2005.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,4500,11206,2012.0,Harley-Davidson,Dyna,Sport Touring,False,private seller,Clear
+Used,9999,3370,2016.0,Harley-Davidson,Sportster,Cruiser,True,private seller,Clear
+Used,13900,16911,2013.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,8995,22233,2006.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,11800,12500,2005.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,13500,19100,2014.0,Harley-Davidson,Touring,Touring,False,owner,Clear
+Used,11999,45858,2012.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,15995,3117,2014.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,8950,29244,1998.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,11000,14157,2004.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,7000,7150,2011.0,Harley-Davidson,Touring,Cruiser,True,private seller,Clear
+Used,12400,23658,2013.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,6990,9069,2013.0,Harley-Davidson,Sportster,Cruiser,True,dealer,Clear
+Used,13000,17435,2003.0,Harley-Davidson,Softail,Other,True,private seller,Clear
+Used,7900,30000,2011.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,1675,12309,2012.0,Harley-Davidson,Sportster,Other,False,dealer,Clear
+Used,11995,1142,2016.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,5995,17764,2005.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,10500,7500,2000.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,19500,592,2014.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,2800,21130,1996.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,7700,17000,2004.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,9995,38278,2013.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,11000,18047,2008.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,17495,28368,2011.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,13995,17758,1997.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,15500,2800,2015.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,14999,4171,2015.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,7400,7800,2004.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,13000,26840,2012.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,18000,2359,2015.0,Harley-Davidson,Touring,Sport Touring,False,private seller,Clear
+Used,13900,46200,2008.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,3854,29480,2002.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,10995,28827,2008.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,12500,4222,2008.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,4999,16900,2012.0,Harley-Davidson,Sportster,Cruiser,False,dealer,Clear
+Used,9500,9800,2005.0,Harley-Davidson,Softail,Other,False,private seller,Clear
+Used,8300,48477,1992.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,21900,6950,2009.0,Harley-Davidson,Touring,Other,False,private seller,Clear
+Used,9500,11500,2003.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,5995,17764,2005.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,4900,64616,1997.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,5000,20660,2010.0,Harley-Davidson,Other,Cruiser,False,dealer,Clear
+Used,9995,38278,2013.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,8000,14400,1998.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,5450,40000,1980.0,Harley-Davidson,Other,Cruiser,True,private seller,Clear
+Used,4050,3591,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,13995,17758,1997.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,15500,2800,2015.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,14000,29800,2013.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,17000,35,2014.0,Harley-Davidson,Touring,Other,True,private seller,Clear
+Used,17895,4089,2008.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,14999,4171,2015.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,12250,19750,2005.0,Harley-Davidson,Touring,Touring,True,owner,Clear
+Used,7400,7800,2004.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,18499,9897,2015.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+New,8000,26,2016.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,3854,29480,2002.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,19998,10200,2014.0,Harley-Davidson,Touring,Cruiser,True,private seller,Clear
+Used,20500,10500,2016.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,11995,25362,2007.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,19500,23600,2007.0,Harley-Davidson,Touring,Sport Touring,True,private seller,Clear
+Used,12500,4222,2008.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,4999,16900,2012.0,Harley-Davidson,Sportster,Cruiser,False,dealer,Clear
+Used,9500,9800,2005.0,Harley-Davidson,Softail,Other,False,private seller,Clear
+Used,6800,31623,2002.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,15900,7000,2007.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,12404,13800,2003.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,14250,70200,2007.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,11800,12500,2005.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,4500,11206,2012.0,Harley-Davidson,Dyna,Sport Touring,False,private seller,Clear
+Used,9500,21368,1996.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,5995,8522,2003.0,Harley-Davidson,Sportster,Other,False,private seller,Clear
+Used,11500,12130,1999.0,Harley-Davidson,Dyna,Sport Touring,False,owner,Clear
+Used,13695,5407,2014.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,10995,11697,2005.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,18500,11115,2003.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,5495,26195,2003.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,6200,13863,1996.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,8300,48477,1992.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,21900,6950,2009.0,Harley-Davidson,Touring,Other,False,private seller,Clear
+Used,7999,6400,2003.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,9695,18185,2013.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,9500,11500,2003.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,3850,20478,2008.0,Harley-Davidson,Sportster,Cruiser,False,dealer,Clear
+Used,4900,64616,1997.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,7100,1300,2012.0,Harley-Davidson,Softail,Touring,False,private seller,Clear
+Used,9900,10509,2006.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,8995,13961,2008.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,4500,9472,2009.0,Harley-Davidson,Sportster,Cruiser,True,private seller,Clear
+Used,8000,14400,1998.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,2950,7800,1984.0,Harley-Davidson,Sportster,Other,False,private seller,Clear
+Used,14000,29800,2013.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,17000,35,2014.0,Harley-Davidson,Touring,Other,True,private seller,Clear
+Used,17895,4089,2008.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,6750,6599,2008.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,6500,12000,2008.0,Harley-Davidson,Dyna,Sport Touring,False,private seller,Clear
+Used,7495,31816,2006.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,12250,19750,2005.0,Harley-Davidson,Touring,Touring,True,owner,Clear
+Used,6000,24000,2003.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,7995,35442,2007.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,18499,9897,2015.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+New,8000,26,2016.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,19500,23600,2007.0,Harley-Davidson,Touring,Sport Touring,True,private seller,Clear
+Used,22950,729,2013.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,1225,19235,1997.0,Harley-Davidson,Softail,Other,False,dealer,Clear
+Used,4500,9472,2009.0,Harley-Davidson,Sportster,Cruiser,True,private seller,Clear
+Used,14500,1800,2015.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,12995,18973,2006.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,9995,20633,2008.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,5500,1000,1974.0,Harley-Davidson,Sportster,Standard,False,private seller,Clear
+Used,7000,77244,2003.0,Harley-Davidson,Other,Touring,True,dealer,Clear
+Used,6800,9800,2009.0,Harley-Davidson,Softail,Cruiser,False,owner,Clear
+Used,15900,7000,2007.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,18995,3957,2014.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,13000,7063,2014.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,14250,70200,2007.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,9500,21368,1996.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,9700,24500,2002.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,13000,21899,2009.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,8999,3000,2011.0,Harley-Davidson,Other,Cruiser,True,dealer,Clear
+Used,18750,23178,2007.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,16500,23986,2015.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,2700,8700,1984.0,Harley-Davidson,Other,Standard,False,private seller,Clear
+Used,0,44951,2007.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,4500,2731,2010.0,Harley-Davidson,Sportster,Cruiser,True,private seller,Clear
+Used,12500,260,2015.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,5995,8522,2003.0,Harley-Davidson,Sportster,Other,False,private seller,Clear
+Used,13000,7063,2014.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,10000,44406,2006.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,19125,13427,2015.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,5500,4965,2007.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,7950,29550,2007.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,19000,14633,2014.0,Harley-Davidson,Touring,Other,True,private seller,Clear
+Used,6000,61434,1993.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,11250,11150,2006.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,2500,27000,2006.0,Harley-Davidson,Touring,Touring,False,owner,Clear
+Used,4995,4800,2006.0,Harley-Davidson,Touring,Other,True,private seller,Clear
+Used,0,12797,2006.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,10000,12000,2006.0,Harley-Davidson,Touring,Touring,True,owner,Clear
+Used,5000,18436,1999.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,13000,7000,2008.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,14500,7728,2008.0,Harley-Davidson,Touring,Other,False,private seller,Clear
+Used,3200,8714,2008.0,Harley-Davidson,Touring,Sport Touring,False,private seller,Clear
+Used,12995,18973,2006.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,21399,17716,2015.0,Harley-Davidson,Touring,Standard,False,dealer,Clear
+Used,12500,18400,2005.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,8000,14000,2005.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,7999,15500,2005.0,Harley-Davidson,Touring,Cruiser,True,private seller,Clear
+Used,8999,3000,2011.0,Harley-Davidson,Other,Cruiser,True,dealer,Clear
+Used,21750,280,2014.0,Harley-Davidson,Touring,Other,True,owner,Clear
+Used,22750,2386,2014.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,22000,5797,2014.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,2700,8700,1984.0,Harley-Davidson,Other,Standard,False,private seller,Clear
+Used,11000,8739,2006.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,4500,2731,2010.0,Harley-Davidson,Sportster,Cruiser,True,private seller,Clear
+Used,12500,260,2015.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,7400,15404,2005.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,6499,24280,2004.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,4995,46102,1986.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,6000,3000,1998.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,6495,18659,1990.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,8000,27110,1998.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,5000,2192,2006.0,Harley-Davidson,Sportster,Standard,True,private seller,Clear
+Used,8500,10000,2006.0,Harley-Davidson,Softail,Other,True,owner,Clear
+Used,2025,19170,1998.0,Harley-Davidson,Sportster,Cruiser,False,dealer,Clear
+Used,4500,25705,2004.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,10995,2554,2004.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,23500,74500,2009.0,Harley-Davidson,Touring,Touring,False,owner,Clear
+Used,7000,24877,2009.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,24000,449,2014.0,Harley-Davidson,Touring,Standard,True,private seller,Clear
+Used,8995,21607,1994.0,Harley-Davidson,Softail,Touring,True,dealer,Clear
+Used,9500,3850,2014.0,Harley-Davidson,Dyna,Cruiser,False,dealer,Clear
+Used,7900,3820,2013.0,Harley-Davidson,Sportster,Standard,True,private seller,Clear
+Used,12495,17152,2009.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,4001,3551,2011.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,7100,45000,2006.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,10950,6744,2014.0,Harley-Davidson,Softail,Standard,False,dealer,Clear
+Used,10000,44406,2006.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,2550,12206,2013.0,Harley-Davidson,Dyna,Sport Touring,False,private seller,Clear
+Used,3999,8576,2004.0,Harley-Davidson,Sportster,Cruiser,True,dealer,Clear
+Used,19125,13427,2015.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,5500,4965,2007.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,7950,29550,2007.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,5900,16775,2006.0,Harley-Davidson,Other,Other,False,owner,Clear
+Used,8000,7300,2004.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,8950,44900,1998.0,Harley-Davidson,Softail,Other,True,private seller,Clear
+Used,19000,14633,2014.0,Harley-Davidson,Touring,Other,True,private seller,Clear
+Used,7000,11699,2008.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,760,3800,2011.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,7500,71,2015.0,Harley-Davidson,Sportster,Cruiser,True,private seller,Clear
+Used,7990,15996,1996.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,3850,3159,2009.0,Harley-Davidson,Sportster,Cruiser,False,dealer,Clear
+Used,4500,100000,1990.0,Harley-Davidson,Sportster,Other,False,by owner,Clear
+Used,6800,5366,2014.0,Harley-Davidson,Sportster,Other,False,dealer,Clear
+Used,12995,18973,2006.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,6000,61434,1993.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,11250,11150,2006.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,2500,27000,2006.0,Harley-Davidson,Touring,Touring,False,owner,Clear
+Used,4995,4800,2006.0,Harley-Davidson,Touring,Other,True,private seller,Clear
+Used,0,12797,2006.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,10000,12000,2006.0,Harley-Davidson,Touring,Touring,True,owner,Clear
+Used,5000,18436,1999.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,13000,7000,2008.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,14500,7728,2008.0,Harley-Davidson,Touring,Other,False,private seller,Clear
+Used,3200,8714,2008.0,Harley-Davidson,Touring,Sport Touring,False,private seller,Clear
+Used,21399,17716,2015.0,Harley-Davidson,Touring,Standard,False,dealer,Clear
+Used,12500,18400,2005.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,8000,14000,2005.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,7999,15500,2005.0,Harley-Davidson,Touring,Cruiser,True,private seller,Clear
+Used,12950,5,2013.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,3100,5000,2009.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,21750,280,2014.0,Harley-Davidson,Touring,Other,True,owner,Clear
+Used,22750,2386,2014.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,22000,5797,2014.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,6000,6962,2009.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,11000,8739,2006.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,2700,2500,1982.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,9600,19000,2007.0,Harley-Davidson,Other,Cruiser,False,private seller,Clear
+Used,100,1905,2016.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,9495,28000,2006.0,Harley-Davidson,Softail,Other,True,private seller,Clear
+Used,14500,4700,2015.0,Harley-Davidson,Dyna,Cruiser,False,private seller,Clear
+Used,9995,2497,2000.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,13899,1600,2016.0,Harley-Davidson,Dyna,Cruiser,False,private seller,Clear
+Used,12750,20333,2010.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,5900,7800,2007.0,Harley-Davidson,Softail,Standard,False,private seller,Clear
+Used,4500,3600,2001.0,Harley-Davidson,Other,Standard,True,private seller,Clear
+Used,6700,27000,1999.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,100,1905,2016.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,9495,28000,2006.0,Harley-Davidson,Softail,Other,True,private seller,Clear
+Used,14500,4700,2015.0,Harley-Davidson,Dyna,Cruiser,False,private seller,Clear
+Used,9995,2497,2000.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,13899,1600,2016.0,Harley-Davidson,Dyna,Cruiser,False,private seller,Clear
+Used,12750,20333,2010.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,5900,7800,2007.0,Harley-Davidson,Softail,Standard,False,private seller,Clear
+Used,6700,27000,1999.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,10999,10079,2010.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,39995,1,2014.0,Harley-Davidson,Other,Touring,True,dealer,Clear
+Used,6000,14000,1999.0,Harley-Davidson,Touring,Standard,False,owner,Clear
+Used,14000,27999,1961.0,Harley-Davidson,Other,Other,False,private seller,Clear
+Used,9995,30779,2005.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,18000,9212,2009.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,10000,13925,2009.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,19000,17300,2009.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,1025,2318,2009.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,9500,28800,2007.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,9000,20555,2006.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,1000,12000,2008.0,Harley-Davidson,Dyna,Sport Touring,False,private seller,Clear
+Used,39000,6000,2012.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,32000,2850,2012.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,16995,3200,2007.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,9995,4500,2004.0,Harley-Davidson,Softail,Standard,False,private seller,Clear
+Used,1000,21873,2003.0,Harley-Davidson,Touring,Cruiser,False,private seller,Clear
+Used,3800,40100,2003.0,Harley-Davidson,Touring,Touring,False,owner,Clear
+Used,29000,9600,2013.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,15000,2046,2013.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,14000,27999,1961.0,Harley-Davidson,Other,Other,False,private seller,Clear
+Used,9995,30779,2005.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,9475,11158,2001.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,11500,10086,2007.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,28750,8500,2015.0,Harley-Davidson,Touring,Other,True,private seller,Clear
+Used,1000,12000,2008.0,Harley-Davidson,Dyna,Sport Touring,False,private seller,Clear
+Used,7000,11295,2011.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,16500,11780,2011.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,16988,10000,2011.0,Harley-Davidson,Touring,Sport Touring,True,private seller,Clear
+Used,16995,3200,2007.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,9995,4500,2004.0,Harley-Davidson,Softail,Standard,False,private seller,Clear
+Used,12000,22000,1985.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,5000,6500,2004.0,Harley-Davidson,Touring,Cruiser,False,private seller,Clear
+Used,2595,18158,1995.0,Harley-Davidson,Sportster,Cruiser,True,dealer,Clear
+Used,8500,30003,2004.0,Harley-Davidson,Touring,Touring,False,owner,Clear
+Used,16499,22520,2008.0,Harley-Davidson,Touring,Other,False,dealer,Clear
+Used,14500,14920,2009.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,4000,16892,2009.0,Harley-Davidson,Sportster,Cruiser,False,dealer,Clear
+Used,12995,736,2016.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,12320,15763,1996.0,Harley-Davidson,Sportster,Other,False,private seller,Clear
+Used,4995,41092,2006.0,Harley-Davidson,Dyna,Cruiser,False,dealer,Clear
+Used,8500,16926,1968.0,Harley-Davidson,Sportster,Sport Bike,False,private seller,Clear
+Used,4400,469,2008.0,Harley-Davidson,Sportster,Standard,False,private seller,Clear
+Used,3195,28110,1995.0,Harley-Davidson,Sportster,Sport Touring,True,private seller,Clear
+Used,5995,10314,2008.0,Harley-Davidson,Sportster,Cruiser,True,dealer,Clear
+Used,6500,49000,1999.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,5000,35000,1995.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,6200,754,2015.0,Harley-Davidson,Other,Other,True,private seller,Clear
+Used,7995,52382,2009.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,9300,8816,2011.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,9600,2350,2003.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,12250,33500,2010.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,8200,23761,1982.0,Harley-Davidson,Touring,Cruiser,True,private seller,Clear
+Used,14000,27999,1961.0,Harley-Davidson,Other,Other,False,private seller,Clear
+Used,6995,6277,1994.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,12700,39000,2006.0,Harley-Davidson,Softail,Cruiser,True,owner,Clear
+Used,39995,1,2014.0,Harley-Davidson,Other,Touring,True,dealer,Clear
+Used,7000,11600,1998.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,12995,12963,2003.0,Harley-Davidson,Softail,Gasoline,False,dealer,Clear
+Used,10500,327,2013.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,8788,15633,2010.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,18500,8793,2013.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,9475,11158,2001.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,11500,10086,2007.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,9000,7876,2003.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,28750,8500,2015.0,Harley-Davidson,Touring,Other,True,private seller,Clear
+Used,7000,11295,2011.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,16500,11780,2011.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,16988,10000,2011.0,Harley-Davidson,Touring,Sport Touring,True,private seller,Clear
+Used,4000,15102,2006.0,Harley-Davidson,Sportster,Sport Touring,True,private seller,Clear
+Used,11495,3147,2014.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,7995,46000,2010.0,Harley-Davidson,Softail,Touring,True,private seller,Clear
+Used,12000,22000,1985.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,5000,6500,2004.0,Harley-Davidson,Touring,Cruiser,False,private seller,Clear
+Used,14995,5549,2016.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,2050,36796,2005.0,Harley-Davidson,Dyna,Cruiser,False,dealer,Clear
+Used,8500,30003,2004.0,Harley-Davidson,Touring,Touring,False,owner,Clear
+Used,16499,22520,2008.0,Harley-Davidson,Touring,Other,False,dealer,Clear
+Used,4995,3301,2000.0,Harley-Davidson,Dyna,Cruiser,True,carrigan motor group,Clear
+Used,5,8000,2010.0,Harley-Davidson,Dyna,Sport Touring,False,private seller,Clear
+Used,8500,30003,2004.0,Harley-Davidson,Touring,Touring,False,owner,Clear
+Used,16499,22520,2008.0,Harley-Davidson,Touring,Other,False,dealer,Clear
+Used,2695,25019,1989.0,Harley-Davidson,Sportster,Cruiser,True,dealer,Clear
+Used,4995,3301,2000.0,Harley-Davidson,Dyna,Cruiser,True,carrigan motor group,Clear
+Used,5,8000,2010.0,Harley-Davidson,Dyna,Sport Touring,False,private seller,Clear
+Used,16900,2680,2016.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,10770,11879,1993.0,Harley-Davidson,Softail,Other,False,dealer,Clear
+Used,9500,4986,2003.0,Harley-Davidson,Softail,Sport Bike,False,private seller,Clear
+Used,510,35884,2006.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,5500,66060,2001.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,6362,16000,2001.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,8300,3184,2001.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,241,11594,2014.0,Harley-Davidson,Sportster,Gasoline,False,dealer,Clear
+Used,9795,16105,2011.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,18388,3717,2013.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,16999,3014,2013.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,6700,53324,1993.0,Harley-Davidson,Softail,Sport Touring,True,private seller,Clear
+Used,12900,11800,2007.0,Harley-Davidson,Touring,Other,True,private seller,Clear
+Used,12225,17573,1992.0,Harley-Davidson,Softail,Touring,True,private seller,Clear
+Used,19900,14835,2012.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,11500,4100,2012.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,14050,25317,2005.0,Harley-Davidson,Softail,Other,True,private seller,Clear
+Used,8995,19078,2002.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,7900,15715,2012.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,21500,10912,2011.0,Harley-Davidson,Touring,Other,True,private seller,Clear
+Used,7500,33682,2005.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,4000,22800,1985.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,4950,9652,2005.0,Harley-Davidson,Other,Cruiser,False,private seller,Clear
+Used,6900,25699,2009.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,14000,15350,2012.0,Harley-Davidson,Other,Sport Touring,True,private seller,Clear
+Used,18500,26000,2013.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,12495,6000,2011.0,Harley-Davidson,Touring,Cruiser,False,private seller,Clear
+Used,18000,4300,2016.0,Harley-Davidson,Softail,Cruiser,False,owner,Clear
+Used,19977,1200,2013.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,6000,5260,2009.0,Harley-Davidson,Other,Cruiser,True,private seller,Clear
+Used,20000,18148,2010.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,9900,385,1999.0,Harley-Davidson,Other,Cruiser,True,private seller,Clear
+Used,10000,37000,2010.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,9000,17130,2010.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,19999,21800,2010.0,Harley-Davidson,Touring,Other,False,private seller,Clear
+Used,12900,9880,2010.0,Harley-Davidson,Touring,Other,True,private seller,Clear
+Used,2695,25019,1989.0,Harley-Davidson,Sportster,Cruiser,True,dealer,Clear
+Used,11999,11817,2013.0,Harley-Davidson,Dyna,Touring,True,dealer,Clear
+Used,7995,14277,2006.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,9995,17219,2013.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,8250,46847,2002.0,Harley-Davidson,Touring,Touring,False,owner,Clear
+Used,10250,11000,2010.0,Harley-Davidson,Softail,Standard,False,private seller,Clear
+Used,6500,30025,2006.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,9000,61000,2000.0,Harley-Davidson,Other,Cruiser,False,private seller,Clear
+Used,8000,21162,2002.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,18000,20025,1997.0,Harley-Davidson,Other,Cruiser,True,private seller,Clear
+Used,6995,15871,2006.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,8495,2669,2012.0,Harley-Davidson,Sportster,Standard,True,dealer,Clear
+Used,18500,26000,2013.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,12495,6000,2011.0,Harley-Davidson,Touring,Cruiser,False,private seller,Clear
+Used,7495,27209,2004.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,12999,31697,1999.0,Harley-Davidson,Softail,Other,True,private seller,Clear
+Used,9495,5607,2012.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,9500,11983,2008.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,11500,12000,2010.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,1995,1320,1971.0,Harley-Davidson,Other,Other,False,owner,Clear
+Used,10000,37000,2010.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,9000,17130,2010.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,19999,21800,2010.0,Harley-Davidson,Touring,Other,False,private seller,Clear
+Used,12900,9880,2010.0,Harley-Davidson,Touring,Other,True,private seller,Clear
+Used,2695,25019,1989.0,Harley-Davidson,Sportster,Cruiser,True,dealer,Clear
+Used,42500,5200,2014.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,8250,46847,2002.0,Harley-Davidson,Touring,Touring,False,owner,Clear
+Used,4500,34852,2002.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,5495,25014,1998.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,13000,3930,2014.0,Harley-Davidson,Softail,Other,True,dealer,Clear
+Used,7999,19456,2005.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,23299,11670,2016.0,Harley-Davidson,Touring,Standard,False,dealer,Clear
+Used,15603,24041,2014.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,9999,31152,2009.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,7000,6654,2003.0,Harley-Davidson,Softail,Standard,False,private seller,Clear
+Used,7995,25003,2001.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,13999,2097,2015.0,Harley-Davidson,Dyna,Touring,True,dealer,Clear
+Used,8500,23600,2001.0,Harley-Davidson,Softail,Touring,True,private seller,Clear
+Used,7995,24911,2009.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,13900,2184,2008.0,Harley-Davidson,Softail,Sport Bike,True,private seller,Clear
+Used,4250,5420,2003.0,Harley-Davidson,Sportster,Cruiser,True,private seller,Clear
+Used,4500,1,1964.0,Harley-Davidson,Sportster,Other,False,private seller,Clear
+Used,8988,42800,2010.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,9000,61000,2000.0,Harley-Davidson,Other,Cruiser,False,private seller,Clear
+Used,18000,20025,1997.0,Harley-Davidson,Other,Cruiser,True,private seller,Clear
+Used,8995,39487,2010.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,1525,4329,2013.0,Harley-Davidson,Sportster,Standard,False,private seller,Clear
+Used,12000,7813,2008.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,1995,1320,1971.0,Harley-Davidson,Other,Other,False,owner,Clear
+Used,8499,29771,2004.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,42500,5200,2014.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,4500,34852,2002.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,13000,48300,2005.0,Harley-Davidson,Touring,Cruiser,False,private seller,Clear
+Used,5495,25014,1998.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,13000,3930,2014.0,Harley-Davidson,Softail,Other,True,dealer,Clear
+Used,7999,19456,2005.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,18500,6065,2013.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,7800,22000,2003.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,17000,8000,2013.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,10995,10261,2012.0,Harley-Davidson,Dyna,Touring,True,dealer,Clear
+Used,13000,22297,2014.0,Harley-Davidson,Other,Standard,False,private seller,Clear
+Used,9999,31152,2009.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,7000,6654,2003.0,Harley-Davidson,Softail,Standard,False,private seller,Clear
+Used,10500,35467,2010.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,7995,25003,2001.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,8500,23600,2001.0,Harley-Davidson,Softail,Touring,True,private seller,Clear
+Used,13999,2097,2015.0,Harley-Davidson,Dyna,Touring,True,dealer,Clear
+Used,3250,8200,1997.0,Harley-Davidson,Sportster,Cruiser,True,private seller,Clear
+Used,7000,6300,2013.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,17988,874,2017.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,8995,39487,2010.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,12000,7813,2008.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,8500,28000,2001.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,16999,18469,2014.0,Harley-Davidson,Touring,Touring,False,shoreline harley -  davidson,Clear
+Used,7000,37737,2009.0,Harley-Davidson,Other,Sport Bike,False,private seller,Clear
+Used,13000,48300,2005.0,Harley-Davidson,Touring,Cruiser,False,private seller,Clear
+Used,4000,4111,2007.0,Harley-Davidson,V-ROD,Standard,False,dealer,Clear
+Used,18500,6065,2013.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,10899,7720,2015.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,0,46600,2004.0,Harley-Davidson,Dyna,Cruiser,False,private seller,Clear
+Used,12995,624,2016.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,21500,3600,2013.0,Harley-Davidson,Other,Cruiser,True,private seller,Clear
+Used,4500,14000,2001.0,Harley-Davidson,Other,Other,False,owner,Clear
+Used,10500,35467,2010.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,13900,2184,2008.0,Harley-Davidson,Softail,Sport Bike,True,private seller,Clear
+Used,7788,8350,2014.0,Harley-Davidson,Sportster,Cruiser,False,dealer,Clear
+Used,3250,8200,1997.0,Harley-Davidson,Sportster,Cruiser,True,private seller,Clear
+Used,28400,841,2016.0,Harley-Davidson,Other,Touring,True,dealer,Clear
+Used,7995,15533,2005.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,14500,1867,2014.0,Harley-Davidson,Other,Standard,True,private seller,Clear
+Used,10999,1300,2013.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,7500,13319,2003.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,3550,0,2003.0,Harley-Davidson,V-ROD,Sport Touring,False,private seller,Clear
+Used,5950,48100,2001.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,1000,32295,2007.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,11899,22424,2014.0,Harley-Davidson,Dyna,Standard,False,dealer,Clear
+Used,15788,8992,2013.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,6500,26600,2000.0,Harley-Davidson,Softail,Standard,False,private seller,Clear
+Used,23999,16433,2014.0,Harley-Davidson,Touring,Gasoline,True,dealer,Clear
+Used,11899,22424,2014.0,Harley-Davidson,Dyna,Standard,False,dealer,Clear
+Used,6500,26600,2000.0,Harley-Davidson,Softail,Standard,False,private seller,Clear
+Used,16000,12600,2013.0,Harley-Davidson,Touring,Cruiser,True,private seller,Clear
+Used,13988,646,2014.0,Harley-Davidson,Softail,Touring,False,dealer,Clear
+Used,21000,9021,2014.0,Harley-Davidson,Other,Cruiser,False,private seller,Clear
+Used,8995,9437,2010.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,18400,2134,2010.0,Harley-Davidson,V-ROD,Other,False,dealer,Clear
+Used,3550,19560,2005.0,Harley-Davidson,V-ROD,Other,False,private seller,Clear
+Used,3050,4999,2006.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,11600,2000,1977.0,Harley-Davidson,Other,Other,False,private seller,Clear
+Used,13998,28641,2001.0,Harley-Davidson,Other,Other,True,dealer,Clear
+Used,7495,30794,2007.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,14995,1121,2016.0,Harley-Davidson,Other,Other,False,private seller,Clear
+Used,4000,15102,2006.0,Harley-Davidson,Sportster,Sport Touring,True,private seller,Clear
+Used,3400,43000,2006.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,6000,2979,2005.0,Harley-Davidson,Sportster,Other,True,private seller,Clear
+Used,3499,3160,2005.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,4000,3858,2001.0,Harley-Davidson,Dyna,Other,False,private seller,Clear
+Used,13499,10641,1961.0,Harley-Davidson,Other,Other,True,private seller,Clear
+Used,6500,0,1997.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,7995,3900,2014.0,Harley-Davidson,Sportster,Cruiser,True,private seller,Clear
+Used,13900,3080,2012.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,29995,1,2001.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,6700,26352,2003.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,9888,34609,2007.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,3050,22050,2003.0,Harley-Davidson,Dyna,Sport Bike,False,private seller,Clear
+Used,8299,11100,2000.0,Harley-Davidson,Softail,Standard,False,private seller,Clear
+Used,4900,33654,2003.0,Harley-Davidson,V-ROD,Cruiser,True,dealer,Clear
+Used,13000,5428,2013.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,7000,14335,2006.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,7000,14335,2006.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,14500,12700,2004.0,Harley-Davidson,Touring,Touring,True,owner,Clear
+Used,25900,39768,2011.0,Harley-Davidson,Touring,Touring,True,owner,Clear
+Used,9499,26500,2012.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,10200,9297,2012.0,Harley-Davidson,Dyna,Cruiser,False,private seller,Clear
+Used,10000,27802,2008.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,8000,1650,2009.0,Harley-Davidson,Dyna,Cruiser,False,private seller,Clear
+Used,7500,6800,2006.0,Harley-Davidson,Dyna,Other,True,private seller,Clear
+Used,18500,6771,2015.0,Harley-Davidson,Other,Touring,True,private seller,Clear
+Used,12000,37000,2004.0,Harley-Davidson,Touring,Cruiser,True,private seller,Clear
+Used,8995,16952,2010.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,11300,6340,2016.0,Harley-Davidson,Other,Other,False,private seller,Clear
+Used,7999,58490,1993.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,100,1000,1981.0,Harley-Davidson,Sportster,Other,False,private seller,Clear
+Used,5000,14000,2005.0,Harley-Davidson,Sportster,Cruiser,True,private seller,Clear
+Used,9888,34609,2007.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,4900,33654,2003.0,Harley-Davidson,V-ROD,Cruiser,True,dealer,Clear
+Used,4900,21046,1983.0,Harley-Davidson,Other,Cruiser,True,dealer,Clear
+Used,5500,44582,2001.0,Harley-Davidson,Dyna,Cruiser,False,private seller,Clear
+Used,5600,21750,2009.0,Harley-Davidson,Sportster,Other,True,private seller,Clear
+Used,7995,18949,2007.0,Harley-Davidson,Sportster,Standard,True,dealer,Clear
+Used,6000,32869,2003.0,Harley-Davidson,Dyna,Sport Touring,True,owner,Clear
+Used,9795,11218,2010.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,14777,3513,2015.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,8499,6325,2015.0,Harley-Davidson,Sportster,Cruiser,False,dealer,Clear
+Used,18500,6771,2015.0,Harley-Davidson,Other,Touring,True,private seller,Clear
+Used,6000,18000,1998.0,Harley-Davidson,Softail,Standard,False,private seller,Clear
+Used,4800,100,1993.0,Harley-Davidson,Softail,Sport Touring,False,private seller,Clear
+Used,11300,6340,2016.0,Harley-Davidson,Other,Other,False,private seller,Clear
+Used,12250,33500,2010.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,100,29275,2009.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,100,1000,1981.0,Harley-Davidson,Sportster,Other,False,private seller,Clear
+Used,5300,9432,2002.0,Harley-Davidson,V-ROD,Cruiser,False,private seller,Clear
+Used,27288,10586,2014.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,7500,4590,2004.0,Harley-Davidson,V-ROD,Sport Bike,True,private seller,Clear
+Used,8800,37894,2009.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,6100,14860,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,10500,42500,2010.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,9100,0,1985.0,Harley-Davidson,Other,Touring,False,private seller,Clear
+Used,5500,44582,2001.0,Harley-Davidson,Dyna,Cruiser,False,private seller,Clear
+Used,6000,32869,2003.0,Harley-Davidson,Dyna,Sport Touring,True,owner,Clear
+Used,9795,11218,2010.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,14777,3513,2015.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,10000,5300,2015.0,Harley-Davidson,Other,Gasoline,False,private seller,Clear
+Used,11800,11300,2008.0,Harley-Davidson,Other,Sport Touring,False,private seller,Clear
+Used,28000,6200,2015.0,Harley-Davidson,Other,Other,False,onwer,Clear
+Used,520,4036,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,9999,272,1972.0,Harley-Davidson,Other,Other,True,private seller,Clear
+Used,9100,105709,1994.0,Harley-Davidson,Other,Sport Touring,False,private seller,Clear
+Used,17800,15707,2012.0,Harley-Davidson,Other,Other,True,dealer,Clear
+Used,7700,47014,1982.0,Harley-Davidson,Other,Cruiser,True,private seller,Clear
+Used,10495,14305,2003.0,Harley-Davidson,Other,Cruiser,True,dealer,Clear
+Used,4000,11866,2006.0,Harley-Davidson,Sportster,Other,False,private seller,Clear
+Used,10000,3786,2009.0,Harley-Davidson,V-ROD,Sport Bike,True,private seller,Clear
+Used,27988,6125,2014.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,13000,13161,2002.0,Harley-Davidson,Other,Touring,True,private seller,Clear
+Used,10995,2058,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9250,6000,2006.0,Harley-Davidson,Other,Other,True,private seller,Clear
+Used,6200,3500,2014.0,Harley-Davidson,Other,Gasoline,True,private seller,Clear
+Used,11500,4342,1991.0,Harley-Davidson,Dyna,Other,True,owner,Clear
+Used,6500,1980,2001.0,Harley-Davidson,Other,Other,False,private seller,Clear
+Used,9995,16100,2008.0,Harley-Davidson,V-ROD,Cruiser,False,private seller,Clear
+Used,7600,1825,2006.0,Harley-Davidson,Softail,Other,True,owner,Clear
+Used,3500,8000,1996.0,Harley-Davidson,Sportster,Sport Bike,True,private seller,Clear
+Used,7000,8200,2006.0,Harley-Davidson,Dyna,Standard,True,private seller,Clear
+Used,8000,17500,2005.0,Harley-Davidson,Dyna,Sport Touring,True,private seller,Clear
+Used,7300,3841,2008.0,Harley-Davidson,V-ROD,Cruiser,False,private seller,Clear
+Used,21000,992,2016.0,Harley-Davidson,Other,Touring,True,private seller,Clear
+Used,16000,995,2016.0,Harley-Davidson,V-ROD,Cruiser,True,private seller,Clear
+Used,1225,31731,2009.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,17900,19536,2016.0,Harley-Davidson,Touring,Other,True,dealer,Clear
+Used,10995,37244,1984.0,Harley-Davidson,Other,Cruiser,True,dealer,Clear
+Used,8000,29000,2003.0,Harley-Davidson,Dyna,Sport Touring,True,private seller,Clear
+Used,5500,75000,2003.0,Harley-Davidson,Dyna,Sport Touring,True,private seller,Clear
+Used,5500,8600,2003.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,4200,38000,1999.0,Harley-Davidson,Dyna,Cruiser,False,private seller,Clear
+Used,6900,10037,1998.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,6500,1980,2001.0,Harley-Davidson,Other,Other,False,private seller,Clear
+Used,9995,16100,2008.0,Harley-Davidson,V-ROD,Cruiser,False,private seller,Clear
+Used,3050,3030,2013.0,Harley-Davidson,Sportster,Cruiser,False,dealer,Clear
+Used,31888,4050,2016.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,7300,3841,2008.0,Harley-Davidson,V-ROD,Cruiser,False,private seller,Clear
+Used,21000,992,2016.0,Harley-Davidson,Other,Touring,True,private seller,Clear
+Used,16000,995,2016.0,Harley-Davidson,V-ROD,Cruiser,True,private seller,Clear
+Used,5000,28000,1999.0,Harley-Davidson,Sportster,Sport Touring,False,private seller,Clear
+Used,1225,31731,2009.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,5000,28000,1999.0,Harley-Davidson,Sportster,Sport Touring,False,private seller,Clear
+Used,7500,18926,2009.0,Harley-Davidson,Other,Other,False,dealer,Clear
+Used,9000,3050,2012.0,Harley-Davidson,Dyna,Standard,False,private seller,Clear
+Used,7655,3448,1977.0,Harley-Davidson,Other,Other,False,private seller,Clear
+Used,10995,37244,1984.0,Harley-Davidson,Other,Cruiser,True,dealer,Clear
+Used,8750,39354,2013.0,Harley-Davidson,Other,Cruiser,False,dealer,Clear
+Used,7200,11461,2011.0,Harley-Davidson,V-ROD,Cruiser,False,private seller,Clear
+Used,4995,47000,1997.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,5000,28000,1999.0,Harley-Davidson,Sportster,Sport Touring,False,private seller,Clear
+Used,7500,18926,2009.0,Harley-Davidson,Other,Other,False,dealer,Clear
+Used,7600,14000,2010.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,6100,11906,2011.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,7655,3448,1977.0,Harley-Davidson,Other,Other,False,private seller,Clear
+Used,8750,39354,2013.0,Harley-Davidson,Other,Cruiser,False,dealer,Clear
+Used,10995,17238,2016.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,18288,3536,2015.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,1,22005,1993.0,Harley-Davidson,Dyna,Cruiser,False,dealer,Clear
+Used,17995,7687,2015.0,Harley-Davidson,Other,Cruiser,False,dealer,Clear
+Used,7600,14000,2010.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,6100,11906,2011.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,6000,93693,1984.0,Harley-Davidson,Other,Other,True,private seller,Clear
+Used,6000,93693,1984.0,Harley-Davidson,Other,Other,True,private seller,Clear
+Used,17750,1949,2012.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,7500,150,1967.0,Harley-Davidson,Other,Other,False,private seller,Clear
+Used,34800,348,2015.0,Harley-Davidson,Other,Other,True,dealer,Clear
+Used,7950,5917,2012.0,Harley-Davidson,Other,Cruiser,False,dealer,Clear
+Used,32599,1000,2015.0,Harley-Davidson,Other,Touring,True,private seller,Clear
+Used,5500,49436,2000.0,Harley-Davidson,Dyna,Other,False,private seller,Clear
+Used,6500,12000,1993.0,Harley-Davidson,Other,Cruiser,False,private seller,Clear
+Used,10000,22132,2002.0,Harley-Davidson,V-ROD,Touring,False,private seller,Clear
+New,32000,2700,2010.0,Harley-Davidson,Other,Cruiser,True,private seller,Clear
+Used,5000,5052,2001.0,Harley-Davidson,Other,Other,False,private seller,Clear
+Used,5500,49436,2000.0,Harley-Davidson,Dyna,Other,False,private seller,Clear
+Used,33995,6349,2015.0,Harley-Davidson,Other,Touring,True,dealer,Clear
+Used,35995,108,2016.0,Harley-Davidson,Other,Touring,True,dealer,Clear
+Used,29900,1500,1991.0,Harley-Davidson,Other,Standard,False,private seller,Clear
+Used,30977,782,2015.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,9990,6888,2012.0,Harley-Davidson,V-ROD,Cruiser,True,dealer,Clear
+Used,19977,969,2016.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,8995,7310,2011.0,Harley-Davidson,V-ROD,Sport Bike,True,dealer,Clear
+Used,14099,2902,2014.0,Harley-Davidson,Other,Touring,False,private seller,Clear
+Used,9999,20000,2003.0,Harley-Davidson,V-ROD,Cruiser,True,private seller,Clear
+Used,15500,32700,2012.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,30000,5749,1983.0,Harley-Davidson,Other,Standard,True,private seller,Clear
+Used,37500,7600,2012.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,22499,18104,2016.0,Harley-Davidson,Touring,Standard,False,dealer,Clear
+Used,26995,17528,2013.0,Harley-Davidson,Other,Sport Touring,True,dealer,Clear
+Used,20900,610,2015.0,Harley-Davidson,Other,Other,False,private seller,Clear
+Used,10210,6600,2012.0,Harley-Davidson,V-ROD,Cruiser,False,private seller,Clear
+Used,810,29762,2011.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,29500,2382,2009.0,Harley-Davidson,Other,Touring,True,owner,Clear
+Used,3500,66000,2008.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,9999,20000,2003.0,Harley-Davidson,V-ROD,Cruiser,True,private seller,Clear
+Used,13000,19887,2011.0,Harley-Davidson,Other,Touring,False,private seller,Clear
+Used,15500,32700,2012.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,30000,5749,1983.0,Harley-Davidson,Other,Standard,True,private seller,Clear
+Used,37500,7600,2012.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,22499,18104,2016.0,Harley-Davidson,Touring,Standard,False,dealer,Clear
+Used,26995,17528,2013.0,Harley-Davidson,Other,Sport Touring,True,dealer,Clear
+Used,20900,610,2015.0,Harley-Davidson,Other,Other,False,private seller,Clear
+Used,22499,18104,2016.0,Harley-Davidson,Touring,Standard,False,dealer,Clear
+Used,5655,3344,2012.0,Harley-Davidson,Sportster,Sport Bike,False,dealer,Clear
+Used,26995,17528,2013.0,Harley-Davidson,Other,Sport Touring,True,dealer,Clear
+Used,20900,610,2015.0,Harley-Davidson,Other,Other,False,private seller,Clear
+Used,10210,6600,2012.0,Harley-Davidson,V-ROD,Cruiser,False,private seller,Clear
+Used,810,29762,2011.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,29500,2382,2009.0,Harley-Davidson,Other,Touring,True,owner,Clear
+Used,8250,42875,1990.0,Harley-Davidson,Other,Sport Bike,True,private seller,Clear
+Used,11000,1167,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12500,5900,2009.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+New,32980,500,2016.0,Harley-Davidson,Touring,Gasoline,True,dealer,Clear
+Used,17999,31000,2001.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,10000,20977,1980.0,Harley-Davidson,Other,Other,False,owner,Clear
+Used,8250,42875,1990.0,Harley-Davidson,Other,Sport Bike,True,private seller,Clear
+Used,5300,3959,2007.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,20248,8114,2014.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,4000,1500,2016.0,Harley-Davidson,Other,Cruiser,False,private seller,Clear
+Used,6100,3491,2015.0,Harley-Davidson,Touring,Gasoline,False,dealer,Clear
+Used,100,16252,1998.0,Harley-Davidson,Softail,Other,False,dealer,Clear
+Used,16750,23865,2008.0,Harley-Davidson,V-ROD,Cruiser,False,private seller,Clear
+Used,7900,42249,2011.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,100,16252,1998.0,Harley-Davidson,Softail,Other,False,dealer,Clear
+Used,7900,42249,2011.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,19500,7612,2012.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,5600,7732,2007.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,19988,49734,2014.0,Harley-Davidson,Touring,Cruiser,False,dealer,Clear
+Used,14000,1085,2014.0,Harley-Davidson,Other,Gasoline,True,private seller,Clear
+Used,7500,23352,2002.0,Harley-Davidson,V-ROD,Sport Bike,False,private seller,Clear
+Used,5900,7186,2002.0,Harley-Davidson,V-ROD,Cruiser,False,private seller,Clear
+Used,13500,6000,2012.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,5000,4393,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,14800,14662,2008.0,Harley-Davidson,Other,Other,True,dealer,Clear
+Used,5900,14016,2009.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8500,280,2014.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,5600,7732,2007.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,17200,25000,2014.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,4249,49731,2011.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,15100,1340,1943.0,Harley-Davidson,Other,Other,True,private seller,Clear
+Used,7500,23352,2002.0,Harley-Davidson,V-ROD,Sport Bike,False,private seller,Clear
+Used,6995,22452,1998.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,5900,7186,2002.0,Harley-Davidson,V-ROD,Cruiser,False,private seller,Clear
+Used,8300,23100,2006.0,Harley-Davidson,Touring,Other,True,owner,Clear
+Used,5000,4393,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,5000,4393,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,24500,18000,2013.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,14800,14662,2008.0,Harley-Davidson,Other,Other,True,dealer,Clear
+Used,5900,14016,2009.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,21995,8442,2015.0,Harley-Davidson,Other,Touring,True,dealer,Clear
+Used,21995,8442,2015.0,Harley-Davidson,Other,Touring,True,dealer,Clear
+Used,17000,12000,2011.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,17200,25000,2014.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,21648,1309,2016.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,16995,7739,2012.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,13500,14000,2012.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,12000,12398,2013.0,Harley-Davidson,Softail,Cruiser,False,private seller,Clear
+Used,10991,2588,2004.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,26995,7657,2013.0,Harley-Davidson,Other,Touring,True,dealer,Clear
+New,13000,1248,2014.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,1999,22134,2003.0,Harley-Davidson,Sportster,Other,False,private seller,Clear
+Used,1903,28386,1993.0,Harley-Davidson,Other,Standard,False,private seller,Clear
+Used,9500,34701,1985.0,Harley-Davidson,Other,Cruiser,False,dealer,Clear
+Used,10148,77851,2007.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+New,500,19875,2008.0,Harley-Davidson,Touring,Gasoline,False,dealer,Clear
+Used,23748,2204,2016.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,12000,500,2004.0,Harley-Davidson,Softail,Other,False,private seller,Clear
+Used,26995,7657,2013.0,Harley-Davidson,Other,Touring,True,dealer,Clear
+Used,1999,22134,2003.0,Harley-Davidson,Sportster,Other,False,private seller,Clear
+Used,10148,77851,2007.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+New,500,19875,2008.0,Harley-Davidson,Touring,Gasoline,False,dealer,Clear
+Used,23748,2204,2016.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,14977,59115,2013.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,17588,459,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,6950,29400,2000.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,15248,49823,2013.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,15248,49823,2013.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,17992,3025,2016.0,Harley-Davidson,Touring,Gasoline,True,dealer,Clear
+Used,14000,17500,2009.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,4999,19133,2009.0,Harley-Davidson,Other,Touring,False,dealer,Clear
+Used,3500,2746,2009.0,Harley-Davidson,Other,Touring,False,private seller,Clear
+Used,15977,1223,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,10000,9295,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6000,13850,2000.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,510,3149,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,15900,1400,2013.0,Harley-Davidson,Softail,Touring,True,private seller,Clear
+Used,14792,1475,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,5100,6204,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,6200,15022,2009.0,Harley-Davidson,Softail,Standard,False,dealer,Clear
+Used,6000,13850,2000.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,6200,15022,2009.0,Harley-Davidson,Softail,Standard,False,dealer,Clear
+Used,6000,13850,2000.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,2025,14222,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,31995,56158,1958.0,Harley-Davidson,Other,Touring,True,private seller,Clear
+Used,500,7465,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,12995,8824,1997.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,7760,6893,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6260,26640,1999.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18992,2770,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16995,27967,2008.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,6997,18409,2005.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,5235,1176,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,13977,12037,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7000,11616,2009.0,Harley-Davidson,Dyna,Cruiser,False,ricky,Clear
+Used,16460,314,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7000,11000,2009.0,Harley-Davidson,Dyna,Other,True,private seller,Clear
+Used,8450,8137,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16995,27967,2008.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,6997,18409,2005.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,3805,22264,2001.0,Harley-Davidson,Softail,Standard,False,dealer,Clear
+Used,5235,1176,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,13977,12037,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13977,12037,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9000,9880,2007.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,11991,1584,2010.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7000,11000,2009.0,Harley-Davidson,Dyna,Other,True,private seller,Clear
+Used,9999,54789,2008.0,Harley-Davidson,Other,Touring,False,dealer,Clear
+Used,14991,1350,2015.0,Harley-Davidson,Touring,Gasoline,True,dealer,Clear
+Used,6490,14646,2005.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12875,10000,2012.0,Harley-Davidson,Other,Touring,False,private seller,Clear
+Used,12875,10000,2012.0,Harley-Davidson,Other,Touring,False,private seller,Clear
+Used,7995,46000,2010.0,Harley-Davidson,Softail,Touring,True,private seller,Clear
+Used,500,756,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,4700,9320,2009.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Clear
+Used,5888,13267,2011.0,Harley-Davidson,Sportster,Cruiser,True,dealer,Clear
+Used,3249,8799,2014.0,Harley-Davidson,Sportster,Cruiser,False,dealer,Clear
+Used,7450,16902,2009.0,Harley-Davidson,Dyna,Cruiser,True,private seller,Clear
+Used,22000,2074,2015.0,Harley-Davidson,Softail,Gasoline,True,dealer,Clear
+Used,9791,14320,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14980,3096,2016.0,Harley-Davidson,Softail,Gasoline,True,dealer,Clear
+Used,4948,40213,2007.0,Harley-Davidson,Sportster,Standard,False,dealer,Clear
+Used,9791,14320,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,2325,30235,2005.0,Harley-Davidson,Softail,Standard,False,dealer,Clear
+Used,10877,7239,2012.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,2763,6702,2001.0,Harley-Davidson,Softail,Standard,False,dealer,Clear
+Used,14997,1410,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6300,9410,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,6300,9410,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,9990,40910,2011.0,Harley-Davidson,Softail,Gasoline,True,dealer,Clear
+Used,13995,10375,2005.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,14588,517,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8500,10100,2004.0,Harley-Davidson,Touring,Touring,True,private seller,Clear
+Used,10950,32002,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9990,40910,2011.0,Harley-Davidson,Softail,Gasoline,True,dealer,Clear
+Used,15792,2609,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13995,10375,2005.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,18799,11975,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6648,5603,2013.0,Harley-Davidson,Sportster,Cruiser,True,dealer,Clear
+Used,6648,5603,2013.0,Harley-Davidson,Sportster,Cruiser,True,dealer,Clear
+Used,6495,3245,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9260,7731,2009.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,15697,3171,2016.0,Harley-Davidson,Softail,Gasoline,True,dealer,Clear
+Used,250,1288,2016.0,Harley-Davidson,Sportster,Standard,False,dealer,Clear
+Used,9991,8545,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13992,196,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11000,17900,2010.0,Harley-Davidson,Other,Touring,False,private seller,Clear
+Used,4600,3304,2016.0,Harley-Davidson,Sportster,Standard,False,dealer,Clear
+Used,12100,1469,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,11200,6785,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,11875,7901,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11798,693,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6969,1267,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,29995,4750,2016.0,Harley-Davidson,Other,Other,True,private seller,Clear
+Used,15697,3171,2016.0,Harley-Davidson,Softail,Gasoline,True,dealer,Clear
+Used,12896,4153,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,510,12592,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,13300,411,2016.0,Harley-Davidson,Other,Standard,False,dealer,Clear
+Used,11960,1927,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,102,2931,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,11000,17900,2010.0,Harley-Davidson,Other,Touring,False,private seller,Clear
+Used,11470,5614,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10370,33005,2005.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8670,37105,2010.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6677,29114,2003.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,20300,5833,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,5492,22474,2004.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7400,5105,2015.0,Harley-Davidson,Other,Standard,False,dealer,Clear
+Used,3263,37264,1997.0,Harley-Davidson,Other,Standard,False,dealer,Clear
+Used,8900,16639,2014.0,Harley-Davidson,Other,Standard,False,dealer,Clear
+Used,18349,9942,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6960,40753,2004.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,3650,539,2016.0,Harley-Davidson,Sportster,Standard,False,dealer,Clear
+Used,4470,40518,1999.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6470,20104,2005.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9750,7000,1979.0,Harley-Davidson,Other,Cruiser,True,private seller,Clear
+Used,17100,4686,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,13750,1399,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,4050,22523,2001.0,Harley-Davidson,Other,Standard,False,dealer,Clear
+Used,14199,4043,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,250,1544,2011.0,Harley-Davidson,Sportster,Standard,False,dealer,Clear
+Used,8697,232,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8750,21618,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,250,1544,2011.0,Harley-Davidson,Sportster,Standard,False,dealer,Clear
+Used,10995,2680,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,15261,11654,2012.0,Harley-Davidson,Touring,Gasoline,True,dealer,Clear
+Used,5700,7040,2003.0,Harley-Davidson,Other,Standard,False,dealer,Clear
+Used,10448,12276,2013.0,Harley-Davidson,Dyna,Cruiser,False,dealer,Clear
+Used,4470,1154,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12800,5416,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,4791,1863,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,4791,1863,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8750,8975,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,5896,8935,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12897,31030,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8990,8013,1975.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,19996,7030,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,500,9306,2004.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,25299,8419,2009.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,5100,4680,2017.0,Harley-Davidson,Other,Cruiser,False,dealer,Clear
+Used,12660,2541,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,4050,42706,2007.0,Harley-Davidson,Other,Standard,False,dealer,Clear
+Used,7450,556,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8990,8013,1975.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,19996,7030,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,25299,8419,2009.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,5100,4680,2017.0,Harley-Davidson,Other,Cruiser,False,dealer,Clear
+Used,12660,2541,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,4050,42706,2007.0,Harley-Davidson,Other,Standard,False,dealer,Clear
+Used,7450,556,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,5470,23686,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,5470,23686,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,5350,3363,2015.0,Harley-Davidson,Other,Standard,False,dealer,Clear
+Used,3760,24851,2009.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,100,1339,2017.0,Harley-Davidson,Other,Cruiser,False,dealer,Clear
+Used,500,15169,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,19577,16922,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,15895,5244,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,500,14166,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,100,656,2014.0,Harley-Davidson,Sportster,Cruiser,False,dealer,Clear
+Used,5770,2859,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11999,14985,2001.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,18975,4604,2015.0,Harley-Davidson,Other,Standard,False,dealer,Clear
+Used,11901,3353,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,30960,5439,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,4490,59674,1987.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,3490,19449,2000.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,3490,19449,2000.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18349,15644,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,305,2411,2016.0,Harley-Davidson,Other,Standard,False,dealer,Clear
+Used,4550,4123,2011.0,Harley-Davidson,Sportster,Standard,False,dealer,Clear
+Used,6491,81566,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,500,32165,1995.0,Harley-Davidson,Touring,Cruiser,False,dealer,Clear
+Used,500,2215,2016.0,Harley-Davidson,Touring,Other,False,dealer,Clear
+Used,1580,36519,2006.0,Harley-Davidson,Other,Touring,False,dealer,Clear
+Used,2900,80556,2005.0,Harley-Davidson,Other,Standard,False,dealer,Clear
+Used,20660,1618,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8970,44025,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,20360,3778,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10992,3373,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,19000,200,2016.0,Harley-Davidson,Other,Standard,False,dealer,Clear
+Used,5760,27482,1987.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13495,908,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,5600,1717,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,10995,16357,2009.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,610,6952,2016.0,Harley-Davidson,Other,Standard,False,dealer,Clear
+Used,12992,12155,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,21870,3081,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,500,12698,2014.0,Harley-Davidson,Dyna,Cruiser,False,dealer,Clear
+Used,2025,1625,2017.0,Harley-Davidson,Other,Cruiser,False,dealer,Clear
+Used,12490,1087,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8295,18283,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16460,613,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,20560,5830,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18977,2908,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,18489,1101,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,250,14417,2005.0,Harley-Davidson,Other,Standard,False,dealer,Clear
+Used,26964,19219,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,100,3185,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,14997,2089,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,20981,4163,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6100,791,2016.0,Harley-Davidson,Sportster,Standard,False,dealer,Clear
+Used,11995,14718,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16980,18404,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,17497,3299,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14995,18517,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12488,53467,2006.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,13100,5838,2012.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,7996,482,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16999,2231,2017.0,Harley-Davidson,Softail,Standard,True,dealer,Clear
+Used,21995,5881,2016.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,9950,17543,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16992,12075,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14750,13862,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7492,18825,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6999,72556,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16992,14505,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7492,18825,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6999,72556,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16992,14505,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9980,23203,2007.0,Harley-Davidson,Other,Standard,False,dealer,Clear
+Used,11998,50970,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,15521,11055,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,20500,5620,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,39999,5504,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,100,21779,2015.0,Harley-Davidson,Other,Touring,False,dealer,Clear
+Used,6570,6905,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,21995,5881,2016.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,405,11402,2014.0,Harley-Davidson,Other,Touring,False,dealer,Clear
+Used,14990,17053,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6750,210,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10995,18153,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,500,33803,2007.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,22991,1482,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8490,8459,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6370,364,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,19500,4623,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,100,26039,2015.0,Harley-Davidson,Other,Touring,False,dealer,Clear
+Used,100,37208,2001.0,Harley-Davidson,Other,Touring,False,dealer,Clear
+Used,9896,1231,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10790,69495,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9790,8509,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7896,889,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,250,429,2016.0,Harley-Davidson,Dyna,Standard,False,dealer,Clear
+Used,1025,10951,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8300,385,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,13791,9079,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18791,2261,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,19750,3069,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,22798,0,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16999,17064,2009.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12472,4640,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,500,19393,2011.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,19950,15147,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,31970,2710,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13960,13094,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,27495,4545,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14850,13033,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11791,5303,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11792,5179,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,1025,29666,2014.0,Harley-Davidson,Other,Touring,False,dealer,Clear
+Used,30999,2849,2015.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,21870,2806,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,250,29490,2011.0,Harley-Davidson,Other,Standard,False,dealer,Clear
+Used,13891,14053,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,15995,18023,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11346,41448,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,22960,3226,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8660,27731,1985.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,100,37631,2006.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,13991,51783,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,500,4173,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,7598,646,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11495,38866,2009.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,17780,6820,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,100,13041,2016.0,Harley-Davidson,Other,Touring,False,dealer,Clear
+Used,8990,69135,2010.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,17879,11342,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,250,2755,2016.0,Harley-Davidson,Other,Standard,False,dealer,Clear
+Used,18998,7000,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14698,17939,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11791,16373,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,15250,6090,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6970,3167,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18995,3776,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11791,16373,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,15250,6090,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6970,3167,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,3250,19134,2010.0,Harley-Davidson,Dyna,Standard,False,dealer,Clear
+Used,18995,3776,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6897,7922,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11498,29721,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,19991,4982,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16970,19311,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12990,37691,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13998,35857,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,22899,5905,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,25699,2469,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14995,20605,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10791,26020,2003.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14999,41787,2012.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,17970,5133,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18999,26170,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,17970,5133,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18999,26170,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,17995,9077,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,22799,1226,2016.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,32450,1515,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,17998,22732,2009.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18460,8537,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,15999,31450,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,100,1232,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,100,1117,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,100,4651,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,100,29491,2013.0,Harley-Davidson,Other,Touring,False,dealer,Clear
+Used,23199,14265,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6650,1440,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14895,516,2016.0,Harley-Davidson,V-ROD,Cruiser,False,dealer,Clear
+Used,1000,21431,2014.0,Harley-Davidson,Softail,Touring,False,dealer,Clear
+Used,7995,14559,2008.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,13460,12455,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9791,9532,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,1000,21431,2014.0,Harley-Davidson,Softail,Touring,False,dealer,Clear
+Used,16740,28209,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,1025,3869,2013.0,Harley-Davidson,Sportster,Standard,False,dealer,Clear
+Used,13960,16199,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18480,40326,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,960,1411,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,11460,47985,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,15899,1622,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,1000,710,2017.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,100,12275,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,100,32975,2009.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,14999,760,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,100,3486,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8100,7485,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8100,7485,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,1000,14301,2005.0,Harley-Davidson,Other,Cruiser,False,dealer,Clear
+Used,100,17896,2006.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,7300,15934,2013.0,Harley-Davidson,Other,Cruiser,False,dealer,Clear
+Used,7300,15934,2013.0,Harley-Davidson,Other,Cruiser,False,dealer,Clear
+Used,500,8967,2007.0,Harley-Davidson,V-ROD,Standard,False,dealer,Clear
+Used,11277,21042,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12895,2051,2016.0,Harley-Davidson,Other,Touring,False,dealer,Clear
+Used,8400,938,2016.0,Harley-Davidson,Other,Touring,False,dealer,Clear
+Used,1000,1450,2016.0,Harley-Davidson,Dyna,Standard,False,dealer,Clear
+Used,1000,8994,2015.0,Harley-Davidson,Other,Touring,False,dealer,Clear
+Used,5100,18520,2015.0,Harley-Davidson,Other,Touring,False,dealer,Clear
+Used,18999,16089,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,500,10333,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,18792,1085,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14792,310,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9491,11740,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12960,511,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13990,1720,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6660,10277,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9750,3367,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13998,4509,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,19998,22247,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,19960,10182,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,15995,901,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,3690,4794,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9997,9324,2010.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,15660,10424,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,15460,5712,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9798,61390,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10660,21272,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,5490,1,1998.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10998,2993,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,17998,2167,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10491,52470,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16490,10836,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,19998,17112,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,17670,19007,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14991,43235,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13499,7364,2004.0,Harley-Davidson,Touring,Gasoline,True,dealer,Clear
+Used,28649,4580,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8999,14859,2010.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8999,19144,2010.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11996,6563,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12960,2247,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14950,9344,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12950,8559,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9750,3899,1995.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,17500,10100,2009.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,11999,4310,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10750,4440,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8188,9061,2007.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,29500,4705,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10450,3790,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10588,1045,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,32677,4476,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8950,15020,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9999,3182,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6695,30549,2005.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,4999,8375,2009.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,17992,3025,2016.0,Harley-Davidson,Touring,Gasoline,True,dealer,Clear
+Used,12896,12499,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,19977,14546,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,7466,5819,2009.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,19977,14546,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,7466,5819,2009.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9490,34749,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13960,14379,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12988,1202,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6297,23719,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10791,11516,2010.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,18992,4267,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7999,4926,2013.0,Harley-Davidson,Sportster,Standard,True,dealer,Clear
+Used,7950,28587,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,4950,391,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12992,12155,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,5999,15527,2001.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8750,10150,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,5500,36900,1998.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13488,38923,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,24950,715,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13999,6342,2013.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,6988,1149,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,5990,8718,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6999,136,2016.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,16950,5181,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,4377,9448,2009.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,6990,1109,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9999,38796,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6990,7029,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16460,613,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13499,2394,2016.0,Harley-Davidson,Dyna,Standard,True,dealer,Clear
+Used,7499,14952,2007.0,Harley-Davidson,Dyna,Standard,True,dealer,Clear
+Used,24950,10277,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,21999,16437,2013.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,17999,367,2016.0,Harley-Davidson,Softail,Standard,True,dealer,Clear
+Used,49988,3142,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18950,3587,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,17950,8802,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8670,37105,2010.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14980,3096,2016.0,Harley-Davidson,Softail,Gasoline,True,dealer,Clear
+Used,12950,9541,1998.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,20999,25621,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8850,1704,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,17750,292,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12977,77,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,15450,23155,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14950,26950,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16677,4527,2008.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,13500,41104,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16991,1800,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,4990,6318,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9750,780,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8577,13229,2004.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,7490,76276,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,3000,5350,2005.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7391,18312,2005.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9495,18969,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,29950,2790,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18877,3751,2012.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,10796,17594,2005.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18480,40326,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,25777,27,2017.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,13588,881,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,16950,19834,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12450,12292,2010.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10480,28802,2008.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,21588,10142,2011.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,13988,16001,2015.0,Harley-Davidson,Touring,Gasoline,False,dealer,Clear
+Used,19888,5727,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,21677,7220,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8300,16000,2008.0,Harley-Davidson,Touring,Touring,True,private seller,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,7691,26594,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16999,2928,2015.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,10499,3155,2016.0,Harley-Davidson,Sportster,Standard,True,dealer,Clear
+Used,21588,10142,2011.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,12970,1877,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,5000,15000,2002.0,Harley-Davidson,Softail,Sport Bike,False,private seller,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,12988,4340,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,11199,42,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13490,23617,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,21977,929,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,11499,8766,2013.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,16188,6556,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,13499,4407,2015.0,Harley-Davidson,Other,Cruiser,True,dealer,Clear
+Used,6499,23177,2015.0,Harley-Davidson,Touring,Touring,False,dealer,Salvage
+Used,16499,1401,2014.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,11791,16373,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13999,25180,2004.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,22960,3226,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7499,49235,2002.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,46988,2707,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9400,4200,2016.0,Harley-Davidson,Touring,Touring,False,dealer,Salvage
+Used,19750,3069,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,4499,3349,2003.0,Harley-Davidson,Touring,Touring,False,dealer,Salvage
+Used,23499,12928,2016.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,12588,1542,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,14996,19468,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13188,1976,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,11499,9735,2011.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,14999,42750,2007.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,5500,15937,2005.0,Harley-Davidson,Touring,Touring,False,dealer,Salvage
+Used,2299,73873,2000.0,Harley-Davidson,Touring,Touring,False,dealer,Salvage
+Used,3999,37200,2000.0,Harley-Davidson,Touring,Gasoline,False,dealer,Salvage
+Used,17999,20876,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,4990,51963,2007.0,Harley-Davidson,Touring,Touring,False,dealer,Salvage
+Used,20491,314,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,2750,35338,2002.0,Harley-Davidson,Touring,Touring,False,dealer,Salvage
+Used,23999,269,2016.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,21999,2096,2016.0,Harley-Davidson,Other,Cruiser,True,dealer,Clear
+Used,22999,800,2006.0,Harley-Davidson,Touring,Sport Touring,True,private seller,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,24000,20000,2005.0,Harley-Davidson,Other,Standard,True,private seller,Clear
+Used,16999,20329,2012.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,6450,27168,2008.0,Harley-Davidson,Touring,Touring,False,dealer,Salvage
+Used,4490,50155,2007.0,Harley-Davidson,Touring,Touring,False,dealer,Salvage
+Used,27977,10065,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,3499,44173,2004.0,Harley-Davidson,Softail,Cruiser,True,dealer,Salvage
+Used,12825,9300,2015.0,Harley-Davidson,Touring,Touring,False,private seller,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,20991,3500,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12999,3885,2014.0,Harley-Davidson,Softail,Standard,True,dealer,Clear
+Used,8295,18283,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,35900,9500,2008.0,Harley-Davidson,Touring,Touring,False,private seller,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,7499,5900,2003.0,Harley-Davidson,Touring,Cruiser,False,private seller,Clear
+Used,1580,16,2016.0,Harley-Davidson,Sportster,Standard,False,private seller,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,22677,1329,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,3888,16475,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,2575,3207,2010.0,Harley-Davidson,Sportster,Cruiser,False,dealer,Salvage
+Used,5990,75645,2006.0,Harley-Davidson,Touring,Touring,False,dealer,Salvage
+Used,21377,3668,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,6975,683,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7475,576,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,25999,20608,2013.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,27950,17095,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14950,35000,2012.0,Harley-Davidson,Touring,Cruiser,True,private seller,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,24999,8410,2016.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,7575,480,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,4188,22893,2004.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13000,40182,2006.0,Harley-Davidson,Touring,Touring,False,dealer,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,13588,4134,2016.0,Harley-Davidson,Dyna,Gasoline,False,dealer,Clear
+Used,19999,8000,2013.0,Harley-Davidson,Touring,Cruiser,False,dealer,Clear
+Used,6500,8286,2012.0,Harley-Davidson,Dyna,Cruiser,False,dealer,Salvage
+Used,24900,3800,2016.0,Harley-Davidson,Touring,Touring,True,owner,Clear
+Used,3500,2810,2001.0,Harley-Davidson,Dyna,Cruiser,False,dealer,Salvage
+Used,3550,13187,2003.0,Harley-Davidson,Touring,Touring,False,private seller,Salvage
+Used,500,32000,2006.0,Harley-Davidson,Touring,Touring,False,private seller,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,5490,38714,2000.0,Harley-Davidson,Other,Cruiser,False,private seller,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,4990,34321,2003.0,Harley-Davidson,Touring,Touring,False,dealer,Salvage
+Used,9000,4980,2015.0,Harley-Davidson,Touring,Touring,False,private seller,Salvage
+Used,23499,1225,2016.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,4500,18125,2004.0,Harley-Davidson,Dyna,Cruiser,False,dealer,Salvage
+Used,15977,12231,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,6750,84400,1998.0,Harley-Davidson,Touring,Cruiser,True,private seller,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,499,99999,1999.0,Harley-Davidson,Touring,Touring,False,dealer,Salvage
+Used,10000,3172,2004.0,Harley-Davidson,Other,Touring,False,private seller,Clear
+Used,7500,44695,2010.0,Harley-Davidson,Touring,Touring,False,private seller,Salvage
+Used,15777,7220,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,3500,13935,2009.0,Harley-Davidson,Dyna,Other,False,private seller,Salvage
+Used,18877,1994,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,19777,1425,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,10498,20444,2011.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,16999,6551,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10500,5700,1973.0,Harley-Davidson,Touring,Touring,False,private seller,Clear
+Used,8500,2429,2016.0,Harley-Davidson,Sportster,Sport Bike,True,private seller,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,8500,2429,2016.0,Harley-Davidson,Sportster,Sport Bike,True,private seller,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,18788,13337,2014.0,Harley-Davidson,Touring,Cruiser,False,dealer,Clear
+Used,10500,244,2015.0,Harley-Davidson,Other,Other,False,owner,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,500,7818,2010.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,10000,35000,2007.0,Harley-Davidson,Softail,Cruiser,True,private seller,Clear
+Used,3999,24000,2001.0,Harley-Davidson,Sportster,Cruiser,False,private seller,Salvage
+Used,3800,48428,2001.0,Harley-Davidson,Dyna,Cruiser,False,dealer,Salvage
+Used,29995,11103,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13950,7344,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,19577,5076,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,23995,873,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6500,17500,2010.0,Harley-Davidson,Softail,Cruiser,False,private seller,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,5750,33930,2005.0,Harley-Davidson,Dyna,Cruiser,False,owner,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,9450,6474,2008.0,Harley-Davidson,V-ROD,Cruiser,True,dealer,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,16750,3021,2005.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10750,6895,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,27000,14500,2011.0,Harley-Davidson,Other,Standard,True,private seller,Clear
+Used,3399,44100,1995.0,Harley-Davidson,Dyna,Cruiser,False,private seller,Salvage
+Used,500,2045,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,6995,16016,2010.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,4500,29000,1995.0,Harley-Davidson,Dyna,Cruiser,True,private seller,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,3656,29241,2007.0,Harley-Davidson,Touring,Touring,False,dealer,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,23999,1033,2016.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,6000,37900,2006.0,Harley-Davidson,Other,Cruiser,False,private seller,Clear
+Used,5996,15890,2005.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,19877,1641,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,23999,4575,2016.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,8495,39687,2005.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+New,10000,7247,2017.0,Harley-Davidson,Touring,Touring,False,dealer,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,19795,48358,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6499,14688,2012.0,Harley-Davidson,Touring,Touring,False,dealer,Clear
+Used,7450,2839,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,20995,1922,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6750,43,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,20950,12629,2013.0,Harley-Davidson,Touring,Gasoline,True,dealer,Clear
+Used,500,1255,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,6495,7892,2009.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,27000,24500,2010.0,Harley-Davidson,Touring,Cruiser,True,private seller,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,8450,11564,2010.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,2475,28882,2007.0,Harley-Davidson,Softail,Standard,False,dealer,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,6450,14268,2004.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6950,69,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,5995,10953,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18500,8800,2010.0,Harley-Davidson,Touring,Touring,False,private seller,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,500,5184,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,7750,140,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10750,21170,2003.0,Harley-Davidson,Other,Other,False,dealer,Clear
+Used,11970,3419,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,7950,8419,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6495,3245,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18450,4994,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,500,9690,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,3950,28314,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14995,18517,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,17950,13433,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,15950,29502,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10995,2680,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18995,3776,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13495,908,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10995,16357,2009.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,30750,660,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,23950,20374,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11995,14718,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,17950,1611,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,27495,4545,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10995,37366,2007.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,51995,6685,2012.0,Harley-Davidson,Other,Cruiser,True,dealer,Clear
+Used,14995,20605,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,500,112,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,9900,10500,2005.0,Harley-Davidson,Softail,Cruiser,False,dealer,Clear
+Used,13495,1834,1989.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,8499,30224,2002.0,Harley-Davidson,Touring,Gasoline,True,dealer,Clear
+Used,25495,21271,2009.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11495,18617,2001.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,9995,12639,2004.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,11995,314,2003.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,9995,12639,2004.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,11995,314,2003.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,9995,10828,1997.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,500,11616,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,18495,6048,2014.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,7499,50728,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,4995,21902,2006.0,Harley-Davidson,Sportster,Cruiser,True,dealer,Clear
+Used,9999,11418,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14999,0,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18299,861,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7499,18858,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14999,13007,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10499,1114,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,5495,50573,2005.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,18995,9480,2011.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,13999,6005,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12499,4408,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,3999,12989,2005.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12495,19742,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11977,6157,2008.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,500,2277,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,38995,61,1958.0,Harley-Davidson,Touring,Cruiser,True,dealer,Clear
+Used,11977,6157,2008.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8990,5161,2009.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,21588,914,2017.0,Harley-Davidson,Touring,Gasoline,False,dealer,Clear
+Used,3891,32466,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16988,2597,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,5999,32551,1995.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18677,1683,2016.0,Harley-Davidson,Touring,Gasoline,False,dealer,Clear
+Used,5999,30076,1992.0,Harley-Davidson,Softail,Standard,True,dealer,Clear
+Used,11970,29229,2009.0,Harley-Davidson,Touring,Gasoline,False,dealer,Clear
+Used,11777,9980,2010.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,13991,12141,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12588,11296,2005.0,Harley-Davidson,Softail,Gasoline,False,dealer,Clear
+Used,13977,1921,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,13999,1043,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6491,29382,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13588,3732,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,7988,26225,2006.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,18388,1175,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,12977,3956,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,12577,3243,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,18999,18732,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,2000,25612,1995.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12388,5168,2008.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,15877,3086,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,7999,14965,2010.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14988,409,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,12977,4463,2011.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,5988,13018,2010.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,4991,3880,2010.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12000,720,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6991,18807,1996.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8499,45479,2002.0,Harley-Davidson,Softail,Standard,True,dealer,Clear
+Used,9577,7725,2000.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,26500,19000,2011.0,Harley-Davidson,Softail,Standard,False,private seller,Clear
+Used,14991,278,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11291,6754,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,5996,45530,2005.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8588,1616,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,10877,20486,2007.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,11877,17313,2005.0,Harley-Davidson,Softail,Gasoline,False,dealer,Clear
+Used,15388,1031,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,18999,1111,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14291,473,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10977,10213,2005.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,9388,2082,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,12588,11707,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,17499,700,2016.0,Harley-Davidson,Softail,Standard,True,dealer,Clear
+Used,9188,48095,2008.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,9588,146,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,11377,10200,2011.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,20999,780,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12999,14762,2009.0,Harley-Davidson,Softail,Standard,True,dealer,Clear
+Used,10999,6720,2009.0,Harley-Davidson,Softail,Standard,True,dealer,Clear
+Used,7388,6739,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,12588,40108,2012.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8499,5096,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12999,14762,2009.0,Harley-Davidson,Softail,Standard,True,dealer,Clear
+Used,10999,6720,2009.0,Harley-Davidson,Softail,Standard,True,dealer,Clear
+Used,10999,13181,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10577,23499,2012.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,16188,2556,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,15588,7726,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8999,34480,2009.0,Harley-Davidson,Softail,Standard,True,dealer,Clear
+Used,11999,15757,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9388,300,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,5999,73119,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8970,15516,2007.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,22999,1423,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8388,697,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,9588,858,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,12877,8189,2012.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,15677,5608,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,15999,10835,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,15291,2827,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13388,254,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,7992,245,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12850,5953,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7570,879,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,13388,5841,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,18299,3620,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10999,45827,2005.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,29588,1,2006.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8499,29761,2002.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18299,3620,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,29588,1,2006.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,10999,45827,2005.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8388,35,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,11588,8679,2012.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,13588,1184,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8499,29761,2002.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,24999,7040,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11491,1704,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6990,27139,2000.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10850,5958,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11650,4012,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14588,13679,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,23999,28307,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18950,2756,2015.0,Harley-Davidson,Touring,Gasoline,True,dealer,Clear
+Used,6900,49302,2006.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,8291,34589,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14950,6751,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7791,6044,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,5991,3494,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7588,27456,2001.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,10988,19847,2005.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8992,7369,2009.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11999,25464,2010.0,Harley-Davidson,Softail,Standard,True,dealer,Clear
+Used,11999,3838,2014.0,Harley-Davidson,Other,Standard,False,dealer,Clear
+Used,10991,713,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11999,10832,2012.0,Harley-Davidson,Softail,Standard,True,dealer,Clear
+Used,11750,5936,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11588,8521,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,12588,682,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,12499,30567,2004.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18950,2756,2015.0,Harley-Davidson,Touring,Gasoline,True,dealer,Clear
+Used,13996,2048,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7770,114,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,7588,152,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,7188,14535,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,11588,4416,2011.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,10999,13449,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12677,3791,1991.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8188,5161,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,4499,11050,1998.0,Harley-Davidson,Sportster,Standard,True,dealer,Clear
+Used,9795,24325,2010.0,Harley-Davidson,Softail,Cruiser,True,dealer,Clear
+Used,7491,6756,2004.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8491,6503,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7900,20624,2005.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,6990,59981,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8388,1053,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8588,1167,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,13577,14928,2006.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,12499,4733,2014.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,13499,5469,2015.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,6496,23976,2005.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14977,16840,2011.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,30988,10723,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8188,1839,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,29588,7028,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,23999,3338,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12588,7013,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,21877,712,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,20999,10655,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,21877,712,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,20999,10655,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10750,11489,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,5490,45074,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7588,2282,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,19988,5092,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,14999,16770,2004.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10999,21775,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,4490,23513,1994.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8850,1043,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12750,13337,1997.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,24588,2565,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,12495,1740,2015.0,Harley-Davidson,Other,Cruiser,True,dealer,Clear
+Used,6291,858,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,19491,24682,2010.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12991,12426,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7996,807,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6250,275,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,5988,69706,2006.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,7988,1200,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,13588,1946,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,22877,7234,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,13588,5414,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,6999,3464,2014.0,Harley-Davidson,Sportster,Standard,True,dealer,Clear
+Used,5291,10947,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13499,6386,2015.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,11950,22830,2002.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,23777,2072,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,27988,7529,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,14999,12437,2015.0,Harley-Davidson,Softail,Standard,True,dealer,Clear
+Used,8499,158,2016.0,Harley-Davidson,Sportster,Standard,True,dealer,Clear
+Used,9450,51,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13950,6515,2002.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,30877,13086,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,14988,4483,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,10499,44658,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6491,900,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14999,12437,2015.0,Harley-Davidson,Softail,Standard,True,dealer,Clear
+Used,20977,2789,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,23988,1812,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,12588,15109,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,22377,6965,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,16500,16588,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6999,5345,2004.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,11995,14633,2015.0,Harley-Davidson,Other,Cruiser,True,dealer,Clear
+Used,12791,5680,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,15388,3810,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,5291,29127,2010.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14991,7286,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,5490,26738,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,15588,5567,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,9588,13760,2001.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8992,15141,2010.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14588,21203,2011.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,15999,4729,2015.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,6199,76,2016.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,6199,76,2016.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,13950,12,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,19977,17303,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,6088,2042,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,7996,82,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9388,8474,2003.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8977,30664,2005.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,18588,772,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,7991,14841,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11988,3027,2014.0,Harley-Davidson,Dyna,Gasoline,False,dealer,Clear
+Used,13588,3764,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,6422,2163,2010.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12499,1716,2015.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,7588,8688,2005.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,23677,1185,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8890,20105,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11588,21,2017.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8999,11080,2007.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,9999,3017,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,27500,11041,2012.0,Harley-Davidson,Touring,Standard,True,private seller,Clear
+Used,15950,6655,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,21977,8732,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,4999,1618,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10199,11869,2012.0,Harley-Davidson,Dyna,Standard,True,dealer,Clear
+Used,27500,11041,2012.0,Harley-Davidson,Touring,Standard,True,private seller,Clear
+Used,27000,77,2015.0,Harley-Davidson,Other,Standard,True,private seller,Clear
+Used,14000,42,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12999,5555,2015.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,12570,7044,2008.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,9588,82914,2006.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,20491,3393,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13677,6372,2007.0,Harley-Davidson,Dyna,Gasoline,False,dealer,Clear
+Used,20777,5909,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,15888,9552,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,9499,21060,2009.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,19777,2777,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8499,24282,2004.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,25800,28048,2014.0,Harley-Davidson,Other,Standard,True,private seller,Clear
+Used,25991,807,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14991,39076,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11991,21170,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8499,2772,2013.0,Harley-Davidson,Sportster,Standard,True,dealer,Clear
+Used,11188,57462,2008.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,10900,100202,2012.0,Harley-Davidson,Touring,Touring,True,dealer,Clear
+Used,16999,16376,2014.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,16999,16376,2014.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,5291,155,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7499,30846,2005.0,Harley-Davidson,Dyna,Standard,True,dealer,Clear
+Used,9588,2494,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,12777,19126,2010.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,21577,4676,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,22877,2650,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,17988,17815,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,35999,14327,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8795,18897,2010.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,8991,115,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14891,10091,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,19996,214,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10388,578,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,33588,3960,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,10588,70807,2009.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,29577,7371,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,12999,3216,2015.0,Harley-Davidson,Dyna,Standard,True,dealer,Clear
+Used,10000,18232,2009.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10291,1350,2016.0,Harley-Davidson,Dyna,Gasoline,True,dealer,Clear
+Used,10850,33681,2005.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10988,26722,2008.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,4992,22973,2004.0,Harley-Davidson,Dyna,Gasoline,True,dealer,Clear
+Used,11977,20458,2006.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,11991,10419,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,22988,1841,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,11999,23132,2010.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,13999,3716,2016.0,Harley-Davidson,Dyna,Standard,True,dealer,Clear
+Used,9988,4726,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,6499,19745,2007.0,Harley-Davidson,Sportster,Standard,True,dealer,Clear
+Used,14491,2577,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11991,13131,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13950,26356,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,19977,4347,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,16777,11034,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,14499,1306,2016.0,Harley-Davidson,Dyna,Standard,True,dealer,Clear
+Used,18964,11193,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11995,28000,2003.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,24000,15300,2007.0,Harley-Davidson,Other,Other,True,private seller,Clear
+Used,16999,1407,2016.0,Harley-Davidson,Dyna,Standard,True,dealer,Clear
+Used,35450,2864,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,11896,28060,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16877,7721,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,17790,48592,2011.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,21588,2848,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,19977,21980,2012.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,37500,2571,2017.0,Harley-Davidson,Other,Standard,True,private seller,Clear
+Used,37500,2571,2017.0,Harley-Davidson,Other,Standard,True,private seller,Clear
+Used,18991,1031,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14291,42336,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7499,79488,2008.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,17995,13123,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,28000,10024,2009.0,Harley-Davidson,Other,Standard,True,private seller,Clear
+Used,17291,14825,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18977,5432,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,16991,5910,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,20970,1841,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,12999,2604,2014.0,Harley-Davidson,Dyna,Standard,False,dealer,Clear
+Used,10999,14313,2013.0,Harley-Davidson,Dyna,Standard,True,dealer,Clear
+Used,6990,76894,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,6490,68448,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,15891,12005,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18950,962,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8588,8006,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,16577,19952,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,14788,21780,2013.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,8900,70325,2001.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,17490,10472,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13950,11547,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,21377,7324,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,19499,18706,2014.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,19491,50481,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10499,12316,2011.0,Harley-Davidson,Dyna,Standard,False,dealer,Clear
+Used,14891,15410,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7499,37345,1997.0,Harley-Davidson,Dyna,Standard,True,dealer,Clear
+Used,25999,15930,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9395,3276,2011.0,Harley-Davidson,Dyna,Cruiser,True,dealer,Clear
+Used,8999,15947,2010.0,Harley-Davidson,Dyna,Standard,True,dealer,Clear
+Used,17490,10472,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,8999,15947,2010.0,Harley-Davidson,Dyna,Standard,True,dealer,Clear
+Used,17491,4979,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,22988,8845,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,19999,9187,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16995,20867,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,9995,6797,2010.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,15495,5880,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13995,17787,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14983,0,1991.0,Harley-Davidson,Dyna,Gasoline,True,dealer,Clear
+Used,22999,7461,2016.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,18588,31581,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,9900,83136,2005.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18999,8732,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,3800,2353,1974.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,22499,11887,2016.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,24000,6519,2015.0,Harley-Davidson,Touring,Standard,True,private seller,Clear
+Used,19999,9013,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,19999,9013,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,13995,3862,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10995,13422,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,18999,24171,2015.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,21999,9772,2016.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,23499,9620,2016.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,22999,13653,2015.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,14995,24049,2010.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10125,12494,2007.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,22999,11755,2016.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,17750,10772,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14995,1000,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,20499,10789,2015.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,21999,5707,2015.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,6395,10993,2007.0,Harley-Davidson,V-ROD,Cruiser,True,dealer,Clear
+Used,22999,13718,2015.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,14995,5359,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,21999,3236,2015.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,18896,19696,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7995,30487,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12995,0,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,21999,7307,2016.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,34900,2341,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,17995,5457,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,7995,14900,1995.0,Harley-Davidson,Dyna,Gasoline,True,dealer,Clear
+Used,24995,2513,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12495,42025,2009.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,10495,3115,2017.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14995,1995,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,22995,9696,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14495,18759,2011.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,15996,20224,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14995,52758,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,14995,30128,2008.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,12995,59768,2006.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,21995,6560,2014.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,17995,20716,2013.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,24395,17542,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,22995,32895,2012.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,19995,21376,2015.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16750,22267,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,19750,25218,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16950,24675,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,16977,2058,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,15996,26183,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,21999,30144,2016.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,16450,34167,2016.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,32877,5100,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,4700,8607,2012.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,14700,20849,2015.0,Harley-Davidson,Touring,Touring,True,dealer,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,7200,46746,2004.0,Harley-Davidson,Softail,Touring,True,dealer,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,7500,35261,2010.0,Harley-Davidson,Touring,Touring,False,dealer,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,14500,47902,2009.0,Harley-Davidson,Touring,Touring,True,dealer,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,13770,9951,2007.0,Harley-Davidson,Dyna,Gasoline,False,dealer,Clear
+Used,21970,225,2015.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,12990,1617,2014.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,15990,1873,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,10599,16850,2005.0,Harley-Davidson,Other,Gasoline,True,dealer,Clear
+Used,22999,10790,2015.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,20999,12399,2015.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,20970,1800,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,7500,15906,2005.0,Harley-Davidson,Other,Standard,True,dealer,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,6600,68715,2006.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,6900,20780,2007.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,11700,20788,2011.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,5200,3123,2012.0,Harley-Davidson,Sportster,Cruiser,True,dealer,Salvage
+Used,6500,70833,2008.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,10500,32549,2011.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,4300,50572,2006.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,9600,35906,2012.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,12900,16033,2013.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,5900,122277,2005.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,5900,58109,2007.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,3200,4959,2007.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,6500,15218,2006.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,12500,27877,2014.0,Harley-Davidson,Other,Standard,True,dealer,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,5800,4916,2014.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,6800,0,2009.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,6200,24245,2007.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,6300,15272,2004.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,5900,44463,2004.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,10600,48129,2012.0,Harley-Davidson,Other,Standard,True,dealer,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,7900,10151,2009.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,13900,28510,2016.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,6900,23721,2007.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,9500,21183,2010.0,Harley-Davidson,Other,Standard,True,dealer,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,7900,0,2012.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,3900,2669,2016.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,23499,16927,2015.0,Harley-Davidson,Other,Standard,True,dealer,Clear
+Used,6500,29541,2007.0,Harley-Davidson,Touring,Touring,True,dealer,Salvage
+Used,6500,11388,2008.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,3900,66219,2003.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,8300,5468,2011.0,Harley-Davidson,Softail,Touring,True,dealer,Salvage
+Used,7400,12333,2013.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,8500,20060,2008.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,9200,0,2012.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,3900,19268,2004.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,6500,32267,2006.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,7800,45135,2008.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,7900,11679,2012.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,7400,41618,2008.0,Harley-Davidson,Touring,Sport Touring,True,dealer,Salvage
+Used,8800,52418,2008.0,Harley-Davidson,Other,Standard,True,dealer,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,13570,2019,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
+Used,7900,64724,2007.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,6200,55993,2005.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,7500,32560,2005.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,5500,87123,2000.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,3400,23865,2006.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,3900,56633,2004.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,8500,36780,2010.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,4900,22709,2002.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,9900,20851,2011.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,6500,1701,2016.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,10500,16231,2013.0,Harley-Davidson,Other,Standard,True,dealer,"Rebuilt, Rebuildable &amp; Reconstructed"
+Used,7200,29201,2006.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,7500,28716,2007.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,5000,12583,2004.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,5000,19931,2006.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,8900,9305,2012.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,3900,23681,2004.0,Harley-Davidson,Other,Standard,True,dealer,Salvage
+Used,12970,448,2016.0,Harley-Davidson,Other,Gasoline,False,dealer,Clear
