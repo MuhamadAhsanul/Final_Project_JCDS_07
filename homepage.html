@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <title>HarleyDavidson Recommendation</title>
+
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <br>
+        <h2>"American by Birth. Rebel by Choice."</h2>
+            <h4>Choose your pride here!</h4>
+        <br>
+        <img src="https://images.unsplash.com/photo-1558981033-0f0309284409?ixlib=rb-1.2.1&w=1000&q=80" alt="HarleyDavidson" width="65%">
+
+        <br><br>
+        <form action="/main" method="POST">
+            
+            <label for="">Type:</label>
+            <select name="Type" id="">
+                <option value="0">Gasoline</option>
+                <option value="1">Touring</option>
+                <option value="2">Cruiser</option>
+                <option value="3">Standard</option>
+                <option value="4">Sport Touring</option>
+                <option value="5">Sport Bike</option>
+                <option value="6">Other</option>
+                <!-- <option selected hidden></option> -->
+            </select>
+            
+            <label for="">Model:</label>
+            <select name="Model" id="">
+                <option value="0">Touring</option>
+                <option value="1">Softail</option>
+                <option value="2">Dyna</option>
+                <option value="3">Sportster</option>
+                <option value="4">V-ROD</option>
+                <option value="5">Street Glide</option>
+                <option value="6">Other</option>
+                <!-- <option selected hidden></option> -->
+            </select>
+
+            <label for="">Condition:</label>
+            <select name="Condition" id="">
+                <option value="0">Used</option>
+                <option value="1">New</option>
+                <!-- <option selected hidden></option> -->
+            </select>
+
+            <br><br>
+            <input type="submit" value="Find Your Pride!" class="btn btn-primary">
+        </form>
+    </center>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+</html>
